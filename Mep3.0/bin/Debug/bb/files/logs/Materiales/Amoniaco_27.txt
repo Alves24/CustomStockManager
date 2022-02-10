@@ -1,0 +1,580 @@
+
+------    Martes 29 de Septiembre de 2020 ------
+Produccion INGRESADA [2677] | [Latex Pro 01 ECO BLANCO]
+STOCK - Anterior: 62 Modificado: 61.4.
+
+------    Martes 29 de Septiembre de 2020 ------
+Produccion INGRESADA [2678] | [Latex Pro 01 ECO BLANCO]
+STOCK - Anterior: 61 Modificado: 60.4.
+
+------    Martes 29 de Septiembre de 2020 ------
+Produccion INGRESADA [2679] | [Latex Pro 01 ECO BLANCO]
+STOCK - Anterior: 60 Modificado: 59.4.
+
+------    Jueves 1 de Octubre de 2020 ------
+Produccion INGRESADA [2680] | [Latex Pro 01 ECO BLANCO]
+STOCK - Anterior: 59 Modificado: 58.4.
+
+------    Jueves 1 de Octubre de 2020 ------
+Produccion INGRESADA [2681] | [Latex Pro 01 BLANCO]
+STOCK - Anterior: 58 Modificado: 57.5.
+
+------    Jueves 1 de Octubre de 2020 ------
+Produccion INGRESADA [2682] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 58 Modificado: 57.5.
+
+------    Jueves 1 de Octubre de 2020 ------
+Produccion INGRESADA [2683] | [Membrana en Pasta ROJO]
+STOCK - Anterior: 58 Modificado: 57.5.
+
+------    Viernes 2 de Octubre de 2020 ------
+Produccion INGRESADA [2684] | [Membrana en Pasta ROJO]
+STOCK - Anterior: 58 Modificado: 57.5.
+
+------    Viernes 2 de Octubre de 2020 ------
+Produccion INGRESADA [2685] | [Membrana en Pasta ROJO]
+STOCK - Anterior: 58 Modificado: 57.5.
+
+------    Viernes 2 de Octubre de 2020 ------
+Produccion INGRESADA [2685] | [Membrana en Pasta VERDE]
+STOCK - Anterior: 58 Modificado: 57.5.
+
+------    Viernes 16 de Octubre de 2020 ------
+Produccion INGRESADA [2686] | [Membrana (Maxima) VERDE]
+STOCK - Anterior: 58 Modificado: 57.5.
+
+------    Viernes 16 de Octubre de 2020 ------
+Produccion INGRESADA [2687] | [Membrana (Maxima) BLANCO]
+STOCK - Anterior: 58 Modificado: 57.5.
+
+------    Viernes 16 de Octubre de 2020 ------
+Produccion INGRESADA [2688] | [Membrana (Maxima) BLANCO]
+STOCK - Anterior: 58 Modificado: 57.5.
+
+------    Viernes 16 de Octubre de 2020 ------
+Produccion INGRESADA [2689] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 58 Modificado: 57.5.
+
+------    Viernes 16 de Octubre de 2020 ------
+Produccion INGRESADA [2690] | [Membrana (Maxima) BLANCO]
+STOCK - Anterior: 58 Modificado: 57.5.
+
+------    Viernes 16 de Octubre de 2020 ------
+Produccion INGRESADA [2691] | [Membrana (Maxima) BLANCO]
+STOCK - Anterior: 58 Modificado: 57.5.
+
+------    Viernes 16 de Octubre de 2020 ------
+Produccion INGRESADA [2692] | [Membrana (Maxima) BLANCO]
+STOCK - Anterior: 58 Modificado: 57.5.
+
+------    Viernes 16 de Octubre de 2020 ------
+Produccion INGRESADA [2693] | [Membrana (Maxima) BLANCO]
+STOCK - Anterior: 58 Modificado: 57.5.
+
+------    Viernes 16 de Octubre de 2020 ------
+Produccion INGRESADA [2694] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 58 Modificado: 57.5.
+
+------    Jueves 22 de Octubre de 2020 ------
+Produccion INGRESADA [2695] | [Latex Pro 01 BLANCO]
+STOCK - Anterior: 58 Modificado: 57.5.
+
+------    Martes 3 de Noviembre de 2020 ------
+Produccion INGRESADA [2696] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 57.5 Modificado: 57.
+
+------    Martes 3 de Noviembre de 2020 ------
+Produccion INGRESADA [2697] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 57 Modificado: 56.5.
+
+------    Martes 3 de Noviembre de 2020 ------
+Produccion INGRESADA [2698] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 56.5 Modificado: 56.
+
+------    Martes 3 de Noviembre de 2020 ------
+Produccion INGRESADA [2699] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 56 Modificado: 55.5.
+
+------    Martes 3 de Noviembre de 2020 ------
+Produccion INGRESADA [2700] | [Membrana en Pasta ROJO]
+STOCK - Anterior: 55.5 Modificado: 55.
+
+------    Jueves 5 de Noviembre de 2020 ------
+Produccion INGRESADA [2701] | [Membrana en Pasta ROJO]
+STOCK - Anterior: 55 Modificado: 54.5.
+
+------    Jueves 5 de Noviembre de 2020 ------
+Produccion INGRESADA [2702] | [Membrana (Maxima) ROJO]
+STOCK - Anterior: 54.5 Modificado: 54.
+
+------    Jueves 5 de Noviembre de 2020 ------
+Produccion INGRESADA [2703] | [Membrana (Maxima) ROJO]
+STOCK - Anterior: 54 Modificado: 53.5.
+
+------    Jueves 5 de Noviembre de 2020 ------
+Produccion INGRESADA [2704] | [Membrana (Maxima) WENGUE]
+STOCK - Anterior: 53.5 Modificado: 53.
+
+------    Jueves 5 de Noviembre de 2020 ------
+Produccion INGRESADA [2705] | [Membrana (Maxima) VERDE]
+STOCK - Anterior: 53 Modificado: 52.5.
+
+------    Jueves 5 de Noviembre de 2020 ------
+Produccion INGRESADA [2706] | [Membrana en Pasta VERDE]
+STOCK - Anterior: 52.5 Modificado: 52.
+
+------    Jueves 5 de Noviembre de 2020 ------
+MODIFICACION MANUAL
+STOCK - Anterior: 52 Modificado: 46.
+
+------    Viernes 6 de Noviembre de 2020 ------
+Produccion INGRESADA [2707] | [Acrilico Elastomerico x 23 GRIS HIELO]
+STOCK - Anterior: 46 Modificado: 45.5.
+
+------    Viernes 6 de Noviembre de 2020 ------
+Produccion INGRESADA [2708] | [Membrana en Pasta WENGUE]
+STOCK - Anterior: 45.5 Modificado: 45.
+
+------    Martes 10 de Noviembre de 2020 ------
+Produccion INGRESADA [2709] | [Membrana (Maxima) WENGUE]
+STOCK - Anterior: 45 Modificado: 44.5.
+
+------    Martes 10 de Noviembre de 2020 ------
+Produccion INGRESADA [2710] | [Membrana (Maxima) BLANCO]
+STOCK - Anterior: 44.5 Modificado: 44.
+
+------    Martes 10 de Noviembre de 2020 ------
+Produccion INGRESADA [2711] | [Membrana (Maxima) BLANCO]
+STOCK - Anterior: 44 Modificado: 43.5.
+
+------    Martes 10 de Noviembre de 2020 ------
+Produccion INGRESADA [2712] | [Membrana (Maxima) BLANCO]
+STOCK - Anterior: 43.5 Modificado: 43.
+
+------    Miércoles 11 de Noviembre de 2020 ------
+Produccion INGRESADA [2713] | [Membrana (Maxima) BLANCO]
+STOCK - Anterior: 43 Modificado: 42.5.
+
+------    Miércoles 11 de Noviembre de 2020 ------
+Produccion INGRESADA [2714] | [Membrana en Pasta ROJO]
+STOCK - Anterior: 42.5 Modificado: 42.
+
+------    Jueves 12 de Noviembre de 2020 ------
+Produccion INGRESADA [2715] | [Membrana (Maxima) ROJO]
+STOCK - Anterior: 42 Modificado: 41.5.
+
+------    Jueves 12 de Noviembre de 2020 ------
+Produccion INGRESADA [2716] | [Block 07 TRANSPARENTE]
+STOCK - Anterior: 41.5 Modificado: 41.
+
+------    Viernes 13 de Noviembre de 2020 ------
+REPOSICION DE STOCK
+STOCK - Anterior: 41 Modificado: 41.3.
+
+------    Viernes 13 de Noviembre de 2020 ------
+Produccion INGRESADA [2717] | [Membrana (Maxima) ROJO]
+STOCK - Anterior: 41.3 Modificado: 40.8.
+
+------    Viernes 13 de Noviembre de 2020 ------
+Produccion INGRESADA [2718] | [Membrana (Maxima) VERDE]
+STOCK - Anterior: 40.8 Modificado: 40.3.
+
+------    Martes 24 de Noviembre de 2020 ------
+Produccion INGRESADA [2719] | [Membrana (Maxima) BLANCO]
+STOCK - Anterior: 40.3 Modificado: 39.8.
+
+------    Martes 24 de Noviembre de 2020 ------
+Produccion INGRESADA [2720] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 39.8 Modificado: 39.3.
+
+------    Martes 24 de Noviembre de 2020 ------
+Produccion INGRESADA [2721] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 39.3 Modificado: 38.8.
+
+------    Martes 24 de Noviembre de 2020 ------
+Produccion INGRESADA [2722] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 38.8 Modificado: 38.3.
+
+------    Martes 24 de Noviembre de 2020 ------
+Produccion INGRESADA [2723] | [Membrana (Maxima) BLANCO]
+STOCK - Anterior: 38.3 Modificado: 37.8.
+
+------    Jueves 26 de Noviembre de 2020 ------
+Produccion INGRESADA [2724] | [Latex Pro 01 ECO BLANCO]
+STOCK - Anterior: 37.8 Modificado: 37.2.
+
+------    Jueves 26 de Noviembre de 2020 ------
+Produccion INGRESADA [2725] | [Latex Pro 01 ECO BLANCO]
+STOCK - Anterior: 37.2 Modificado: 36.6.
+
+------    Jueves 26 de Noviembre de 2020 ------
+Produccion INGRESADA [2726] | [Latex Pro 01 ECO BLANCO]
+STOCK - Anterior: 36.6 Modificado: 36.
+
+------    Jueves 26 de Noviembre de 2020 ------
+Produccion INGRESADA [2727] | [Latex Pro 01 ECO BLANCO]
+STOCK - Anterior: 36 Modificado: 35.40001.
+
+------    Viernes 27 de Noviembre de 2020 ------
+Produccion INGRESADA [2728] | [Latex Pro 01 ECO BLANCO]
+STOCK - Anterior: 35.40001 Modificado: 34.80001.
+
+------    Viernes 27 de Noviembre de 2020 ------
+Produccion INGRESADA [2729] | [Latex Pro 01 ECO BLANCO]
+STOCK - Anterior: 34.80001 Modificado: 34.20001.
+
+------    Viernes 27 de Noviembre de 2020 ------
+Produccion INGRESADA [2730] | [Membrana (Maxima) BLANCO]
+STOCK - Anterior: 34.20001 Modificado: 33.70001.
+
+------    Viernes 27 de Noviembre de 2020 ------
+Produccion INGRESADA [2731] | [Membrana (Maxima) BLANCO]
+STOCK - Anterior: 33.70001 Modificado: 33.20001.
+
+------    Martes 1 de Diciembre de 2020 ------
+Produccion INGRESADA [2732] | [Membrana (Maxima) BLANCO]
+STOCK - Anterior: 33.20001 Modificado: 32.70001.
+
+------    Martes 1 de Diciembre de 2020 ------
+Produccion INGRESADA [2733] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 32.70001 Modificado: 32.20001.
+
+------    Martes 1 de Diciembre de 2020 ------
+Produccion INGRESADA [2734] | [Membrana (Maxima) ROJO]
+STOCK - Anterior: 32.20001 Modificado: 31.70001.
+
+------    Viernes 4 de Diciembre de 2020 ------
+Produccion INGRESADA [2735] | [Membrana en Pasta ROJO]
+STOCK - Anterior: 31.70001 Modificado: 31.20001.
+
+------    Viernes 4 de Diciembre de 2020 ------
+Produccion INGRESADA [2736] | [Latex Pro 01 MICRO BLANCO]
+STOCK - Anterior: 31.20001 Modificado: 30.70001.
+
+------    Viernes 4 de Diciembre de 2020 ------
+Produccion INGRESADA [2737] | [Latex Pro 01 BLANCO]
+STOCK - Anterior: 30.70001 Modificado: 30.20001.
+
+------    Viernes 4 de Diciembre de 2020 ------
+Produccion INGRESADA [2738] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 30.20001 Modificado: 29.70001.
+
+------    Viernes 11 de Diciembre de 2020 ------
+Produccion INGRESADA [2739] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 29.70001 Modificado: 29.20001.
+
+------    Viernes 11 de Diciembre de 2020 ------
+Produccion INGRESADA [2740] | [Membrana (Maxima) BLANCO]
+STOCK - Anterior: 29.20001 Modificado: 28.70001.
+
+------    Viernes 11 de Diciembre de 2020 ------
+Produccion INGRESADA [2741] | [Membrana (Maxima) BLANCO]
+STOCK - Anterior: 28.70001 Modificado: 28.20001.
+
+------    Viernes 11 de Diciembre de 2020 ------
+Produccion INGRESADA [2742] | [Membrana (Maxima) BLANCO]
+STOCK - Anterior: 28.20001 Modificado: 27.70001.
+
+------    Martes 15 de Diciembre de 2020 ------
+Produccion INGRESADA [2743] | [Membrana (Maxima) WENGUE]
+STOCK - Anterior: 27.70001 Modificado: 27.20001.
+
+------    Martes 15 de Diciembre de 2020 ------
+Produccion INGRESADA [2744] | [Membrana (Maxima) VERDE]
+STOCK - Anterior: 27.20001 Modificado: 26.70001.
+
+------    Martes 15 de Diciembre de 2020 ------
+Produccion INGRESADA [2745] | [Membrana (Maxima) ROJO]
+STOCK - Anterior: 26.70001 Modificado: 26.20001.
+
+------    Martes 15 de Diciembre de 2020 ------
+Produccion INGRESADA [2746] | [Membrana (Maxima) ROJO]
+STOCK - Anterior: 26.20001 Modificado: 25.70001.
+
+------    Martes 15 de Diciembre de 2020 ------
+Produccion INGRESADA [2747] | [Latex Pro 01 ECO BLANCO]
+STOCK - Anterior: 25.70001 Modificado: 25.10001.
+
+------    Jueves 17 de Diciembre de 2020 ------
+Produccion INGRESADA [2748] | [Latex Pro 01 ECO BLANCO]
+STOCK - Anterior: 25.10001 Modificado: 24.50001.
+
+------    Jueves 17 de Diciembre de 2020 ------
+Produccion INGRESADA [2749] | [Latex Pro 01 ECO BLANCO]
+STOCK - Anterior: 24.50001 Modificado: 23.90001.
+
+------    Jueves 17 de Diciembre de 2020 ------
+Produccion INGRESADA [2750] | [Latex Pro 01 ECO BLANCO]
+STOCK - Anterior: 23.90001 Modificado: 23.30001.
+
+------    Jueves 17 de Diciembre de 2020 ------
+Produccion INGRESADA [2751] | [Membrana (Maxima) BLANCO]
+STOCK - Anterior: 23.30001 Modificado: 22.80001.
+
+------    Martes 22 de Diciembre de 2020 ------
+Produccion INGRESADA [2755] | [Membrana (Maxima) ROJO]
+STOCK - Anterior: 21.30001 Modificado: 20.80001.
+
+------    Martes 22 de Diciembre de 2020 ------
+Produccion INGRESADA [2756] | [Membrana (Maxima) ROJO]
+STOCK - Anterior: 20.80001 Modificado: 20.30001.
+
+------    Martes 22 de Diciembre de 2020 ------
+Produccion INGRESADA [2757] | [Membrana en Pasta VERDE]
+STOCK - Anterior: 20.30001 Modificado: 19.80001.
+
+------    Martes 22 de Diciembre de 2020 ------
+Produccion INGRESADA [2758] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 19.80001 Modificado: 19.30001.
+
+------    Martes 22 de Diciembre de 2020 ------
+Produccion INGRESADA [2759] | [Membrana (Maxima) BLANCO]
+STOCK - Anterior: 19.30001 Modificado: 18.80001.
+
+------    Martes 22 de Diciembre de 2020 ------
+Produccion INGRESADA [2760] | [Latex Pro 01 BLANCO]
+STOCK - Anterior: 18.80001 Modificado: 18.30001.
+
+------    Martes 22 de Diciembre de 2020 ------
+Produccion INGRESADA [2761] | [Frentes y Muros F365 BLANCO]
+STOCK - Anterior: 18.30001 Modificado: 17.80001.
+
+------    Miércoles 23 de Diciembre de 2020 ------
+Produccion INGRESADA [2762] | [Membrana (Maxima) WENGUE]
+STOCK - Anterior: 17.80001 Modificado: 17.30001.
+
+------    Miércoles 23 de Diciembre de 2020 ------
+Produccion INGRESADA [2763] | [Membrana (Maxima) WENGUE]
+STOCK - Anterior: 17.30001 Modificado: 16.80001.
+
+------    Miércoles 23 de Diciembre de 2020 ------
+Produccion INGRESADA [2764] | [Membrana (Maxima) ROJO]
+STOCK - Anterior: 16.80001 Modificado: 16.30001.
+
+------    Lunes 11 de Enero de 2021 ------
+Produccion INGRESADA [2766] | [Latex Pro 01 ECO BLANCO]
+STOCK - Anterior: 16.30001 Modificado: 15.70001.
+
+------    Lunes 11 de Enero de 2021 ------
+Produccion INGRESADA [2767] | [Latex Pro 01 ECO BLANCO]
+STOCK - Anterior: 15.70001 Modificado: 15.10001.
+
+------    Lunes 11 de Enero de 2021 ------
+Produccion INGRESADA [2768] | [Latex Pro 01 MICRO BLANCO]
+STOCK - Anterior: 15.10001 Modificado: 14.60001.
+
+------    Miércoles 13 de Enero de 2021 ------
+Produccion INGRESADA [2769] | [Latex Pro 01 MICRO BLANCO]
+STOCK - Anterior: 14.60001 Modificado: 14.10001.
+
+------    Miércoles 13 de Enero de 2021 ------
+Produccion INGRESADA [2770] | [Membrana (Maxima) BLANCO]
+STOCK - Anterior: 14.10001 Modificado: 13.60001.
+
+------    Miércoles 13 de Enero de 2021 ------
+Produccion INGRESADA [2771] | [Membrana (Maxima) BLANCO]
+STOCK - Anterior: 13.60001 Modificado: 13.10001.
+
+------    Miércoles 13 de Enero de 2021 ------
+Produccion INGRESADA [2772] | [Membrana (Maxima) BLANCO]
+STOCK - Anterior: 13.10001 Modificado: 12.60001.
+
+------    Viernes 15 de Enero de 2021 ------
+Produccion INGRESADA [2773] | [Membrana (Maxima) BLANCO]
+STOCK - Anterior: 12.60001 Modificado: 12.10001.
+
+------    Viernes 15 de Enero de 2021 ------
+Produccion INGRESADA [2774] | [Membrana (Maxima) BLANCO]
+STOCK - Anterior: 12.10001 Modificado: 11.60001.
+
+------    Viernes 15 de Enero de 2021 ------
+Produccion INGRESADA [2775] | [Latex Pro 01 ECO BLANCO]
+STOCK - Anterior: 11.60001 Modificado: 11.00001.
+
+------    Viernes 15 de Enero de 2021 ------
+Produccion INGRESADA [2776] | [Latex Pro 01 ECO BLANCO]
+STOCK - Anterior: 11.00001 Modificado: 10.40001.
+
+------    Viernes 15 de Enero de 2021 ------
+Produccion INGRESADA [2777] | [Latex Pro 01 ECO BLANCO]
+STOCK - Anterior: 10.40001 Modificado: 9.800005.
+
+------    Viernes 15 de Enero de 2021 ------
+Produccion INGRESADA [2778] | [Latex Pro 01 ECO BLANCO]
+STOCK - Anterior: 9.800005 Modificado: 9.200005.
+
+------    Viernes 15 de Enero de 2021 ------
+Produccion INGRESADA [2779] | [Latex Pro 01 ECO BLANCO]
+STOCK - Anterior: 9.200005 Modificado: 8.600004.
+
+------    Viernes 15 de Enero de 2021 ------
+Produccion INGRESADA [2780] | [Membrana (Maxima) ROJO]
+STOCK - Anterior: 8.600004 Modificado: 8.100004.
+
+------    Viernes 15 de Enero de 2021 ------
+MODIFICACION MANUAL
+STOCK - Anterior: 8.100004 Modificado: 10.5.
+
+------    Lunes 18 de Enero de 2021 ------
+Produccion INGRESADA [2781] | [Membrana en Pasta ROJO]
+STOCK - Anterior: 10.5 Modificado: 10.
+
+------    Lunes 18 de Enero de 2021 ------
+Produccion INGRESADA [2782] | [Membrana en Pasta WENGUE]
+STOCK - Anterior: 10 Modificado: 9.5.
+
+------    Martes 19 de Enero de 2021 ------
+Produccion INGRESADA [2783] | [Membrana en Pasta VERDE]
+STOCK - Anterior: 9.5 Modificado: 9.
+
+------    Martes 19 de Enero de 2021 ------
+Produccion INGRESADA [2784] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 9 Modificado: 8.5.
+
+------    Miércoles 20 de Enero de 2021 ------
+Produccion INGRESADA [2785] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 8.5 Modificado: 8.
+
+------    Miércoles 20 de Enero de 2021 ------
+Produccion INGRESADA [2786] | [Membrana (Maxima) BLANCO]
+STOCK - Anterior: 8 Modificado: 7.5.
+
+------    Jueves 21 de Enero de 2021 ------
+Produccion INGRESADA [2787] | [Membrana (Maxima) BLANCO]
+STOCK - Anterior: 7.5 Modificado: 7.
+
+------    Jueves 21 de Enero de 2021 ------
+Produccion INGRESADA [2788] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 7 Modificado: 6.5.
+
+------    Jueves 21 de Enero de 2021 ------
+Produccion INGRESADA [2789] | [Latex Pro 01 BLANCO]
+STOCK - Anterior: 6.5 Modificado: 6.
+
+------    Viernes 22 de Enero de 2021 ------
+Produccion INGRESADA [2790] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 6 Modificado: 5.5.
+
+------    Lunes 25 de Enero de 2021 ------
+Produccion INGRESADA [2791] | [Membrana (Maxima) BLANCO]
+STOCK - Anterior: 5.5 Modificado: 5.
+
+------    Lunes 25 de Enero de 2021 ------
+Produccion INGRESADA [2792] | [Membrana (Maxima) BLANCO]
+STOCK - Anterior: 5 Modificado: 4.5.
+
+------    Lunes 25 de Enero de 2021 ------
+REPOSICION DE STOCK
+STOCK - Anterior: 4.5 Modificado: 64.5.
+
+------    Martes 26 de Enero de 2021 ------
+Produccion INGRESADA [2793] | [Membrana (Maxima) BLANCO]
+STOCK - Anterior: 64.5 Modificado: 64.
+
+------    Martes 26 de Enero de 2021 ------
+Produccion INGRESADA [2794] | [Membrana en Pasta VERDE]
+STOCK - Anterior: 64 Modificado: 63.5.
+
+------    Miércoles 27 de Enero de 2021 ------
+Produccion INGRESADA [2795] | [Membrana (Maxima) VERDE]
+STOCK - Anterior: 63.5 Modificado: 63.
+
+------    Miércoles 27 de Enero de 2021 ------
+Produccion INGRESADA [2796] | [Membrana (Maxima) VERDE]
+STOCK - Anterior: 63 Modificado: 62.5.
+
+------    Miércoles 27 de Enero de 2021 ------
+Produccion INGRESADA [2797] | [Acrilico Elastomerico x 23 GRIS HIELO]
+STOCK - Anterior: 62.5 Modificado: 62.
+
+------    Lunes 1 de Febrero de 2021 ------
+Produccion INGRESADA [2798] | [Membrana en Pasta WENGUE]
+STOCK - Anterior: 62 Modificado: 61.5.
+
+------    Lunes 1 de Febrero de 2021 ------
+Produccion INGRESADA [2799] | [Membrana en Pasta ROJO]
+STOCK - Anterior: 61.5 Modificado: 61.
+
+------    Lunes 1 de Febrero de 2021 ------
+Produccion INGRESADA [2800] | [Membrana (Maxima) ROJO]
+STOCK - Anterior: 61 Modificado: 60.5.
+
+------    Lunes 1 de Febrero de 2021 ------
+Produccion INGRESADA [2801] | [Membrana (Maxima) ROJO]
+STOCK - Anterior: 60.5 Modificado: 60.
+
+------    Lunes 1 de Febrero de 2021 ------
+Produccion INGRESADA [2802] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 60 Modificado: 59.5.
+
+------    Lunes 1 de Febrero de 2021 ------
+Produccion INGRESADA [2803] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 59.5 Modificado: 59.
+
+------    Jueves 4 de Febrero de 2021 ------
+Produccion INGRESADA [2804] | [Frentes y Muros F365 BLANCO]
+STOCK - Anterior: 59 Modificado: 58.5.
+
+------    Viernes 5 de Febrero de 2021 ------
+Produccion INGRESADA [2805] | [Membrana (Maxima) VERDE]
+STOCK - Anterior: 58.5 Modificado: 58.
+
+------    Viernes 5 de Febrero de 2021 ------
+Produccion INGRESADA [2806] | [Membrana (Maxima) ROJO]
+STOCK - Anterior: 58 Modificado: 57.5.
+
+------    Martes 9 de Febrero de 2021 ------
+Produccion INGRESADA [2807] | [Membrana en Pasta ROJO]
+STOCK - Anterior: 57.5 Modificado: 57.
+
+------    Martes 9 de Febrero de 2021 ------
+Produccion INGRESADA [2808] | [Block 07 TRANSPARENTE]
+STOCK - Anterior: 57 Modificado: 56.75.
+
+------    Miércoles 10 de Febrero de 2021 ------
+Produccion INGRESADA [2809] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 56.75 Modificado: 56.25.
+
+------    Miércoles 10 de Febrero de 2021 ------
+Produccion INGRESADA [2810] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 56.25 Modificado: 55.75.
+
+------    Jueves 11 de Febrero de 2021 ------
+Produccion INGRESADA [2811] | [Latex Pro 01 BLANCO]
+STOCK - Anterior: 55.75 Modificado: 55.25.
+
+------    Viernes 12 de Febrero de 2021 ------
+Produccion INGRESADA [2812] | [Membrana en Pasta VERDE]
+STOCK - Anterior: 55.25 Modificado: 54.75.
+
+------    Viernes 12 de Febrero de 2021 ------
+Produccion INGRESADA [2813] | [Membrana (Maxima) VERDE]
+STOCK - Anterior: 54.75 Modificado: 54.25.
+
+------    Lunes 22 de Febrero de 2021 ------
+Produccion INGRESADA [2814] | [Membrana (Maxima) BLANCO]
+STOCK - Anterior: 54.25 Modificado: 53.75.
+
+------    Lunes 22 de Febrero de 2021 ------
+Produccion INGRESADA [2815] | [Membrana (Maxima) ROJO]
+STOCK - Anterior: 53.75 Modificado: 53.25.
+
+------    Lunes 22 de Febrero de 2021 ------
+Produccion INGRESADA [2816] | [Membrana (Maxima) ROJO]
+STOCK - Anterior: 53.25 Modificado: 52.75.
+
+------    Lunes 22 de Febrero de 2021 ------
+Produccion INGRESADA [2817] | [Membrana (Maxima) ROJO]
+STOCK - Anterior: 52.75 Modificado: 52.25.
+
+------    Lunes 22 de Febrero de 2021 ------
+Produccion INGRESADA [2818] | [Membrana en Pasta ROJO]
+STOCK - Anterior: 52.25 Modificado: 51.75.
+
+------    Martes 23 de Febrero de 2021 ------
+Produccion INGRESADA [2819] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 51.75 Modificado: 51.25.
+
+------    Lunes 24 de Enero de 2022 ------
+Produccion INGRESADA [2820] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 51.25 Modificado: 50.75.

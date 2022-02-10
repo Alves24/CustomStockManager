@@ -1,0 +1,8 @@
+
+------    Martes 1 de Diciembre de 2020 ------
+Produccion INGRESADA [2733] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 0 Modificado: -15.
+
+------    Martes 1 de Diciembre de 2020 ------
+MODIFICACION MANUAL
+STOCK - Anterior: -15 Modificado: 0.

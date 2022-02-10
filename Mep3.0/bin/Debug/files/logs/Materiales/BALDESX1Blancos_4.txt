@@ -1,0 +1,84 @@
+
+------    Jueves 12 de Noviembre de 2020 ------
+Produccion INGRESADA [2716] | [Block 07 TRANSPARENTE]
+STOCK - Anterior: 2952 Modificado: 2932.
+
+------    Martes 24 de Noviembre de 2020 ------
+MODIFICACION MANUAL
+STOCK - Anterior: 2932 Modificado: 2903.
+
+------    Martes 1 de Diciembre de 2020 ------
+Produccion INGRESADA [2732] | [Membrana (Maxima) BLANCO]
+STOCK - Anterior: 2903 Modificado: 2579.
+
+------    Viernes 11 de Diciembre de 2020 ------
+MODIFICACION MANUAL
+STOCK - Anterior: 2579 Modificado: 3168.
+
+------    Jueves 21 de Enero de 2021 ------
+Produccion INGRESADA [2787] | [Membrana (Maxima) BLANCO]
+STOCK - Anterior: 3168 Modificado: 2928.
+
+------    Martes 26 de Enero de 2021 ------
+Produccion INGRESADA [2793] | [Membrana (Maxima) BLANCO]
+STOCK - Anterior: 2928 Modificado: 2688.
+
+------    Miércoles 5 de Mayo de 2021 ------
+MODIFICACION MANUAL
+STOCK - Anterior: 2688 Modificado: 1970.
+
+------    Lunes 28 de Junio de 2021 ------
+Produccion INGRESADA [2909] | [Membrana (Maxima) BLANCO]
+STOCK - Anterior: 1970 Modificado: 1633.
+
+------    Martes 29 de Junio de 2021 ------
+Produccion INGRESADA [2910] | [Membrana (Maxima) BLANCO]
+STOCK - Anterior: 1633 Modificado: 1377.
+
+------    Martes 29 de Junio de 2021 ------
+Produccion INGRESADA [2911] | [Membrana (Maxima) BLANCO]
+STOCK - Anterior: 1377 Modificado: 1130.
+
+------    Viernes 2 de Julio de 2021 ------
+Produccion INGRESADA [2912] | [Membrana (Maxima) BLANCO]
+STOCK - Anterior: 1130 Modificado: 881.
+
+------    Viernes 2 de Julio de 2021 ------
+Produccion INGRESADA [2913] | [Membrana (Maxima) BLANCO]
+STOCK - Anterior: 881 Modificado: 674.
+
+------    Miércoles 8 de Septiembre de 2021 ------
+Produccion INGRESADA [2952] | [Membrana (Maxima) BLANCO]
+STOCK - Anterior: 674 Modificado: 500.
+
+------    Lunes 13 de Septiembre de 2021 ------
+Produccion INGRESADA [2954] | [Membrana en Pasta ROJO]
+STOCK - Anterior: 500 Modificado: 449.
+
+------    Martes 21 de Septiembre de 2021 ------
+MODIFICACION MANUAL
+STOCK - Anterior: 449 Modificado: 449.
+
+------    Viernes 24 de Septiembre de 2021 ------
+MODIFICACION MANUAL
+STOCK - Anterior: 449 Modificado: 438.
+
+------    Jueves 30 de Septiembre de 2021 ------
+Produccion INGRESADA [2965] | [Membrana (Maxima) BLANCO]
+STOCK - Anterior: 438 Modificado: 72.
+
+------    Jueves 30 de Septiembre de 2021 ------
+REPOSICION DE STOCK
+STOCK - Anterior: 72 Modificado: 4122.
+
+------    Viernes 15 de Octubre de 2021 ------
+Produccion INGRESADA [2973] | [Membrana (Maxima) BLANCO]
+STOCK - Anterior: 4122 Modificado: 3651.
+
+------    Martes 19 de Octubre de 2021 ------
+Produccion INGRESADA [2974] | [Membrana (Maxima) BLANCO]
+STOCK - Anterior: 3651 Modificado: 3474.
+
+------    Lunes 17 de Enero de 2022 ------
+Produccion INGRESADA [3026] | [Membrana (Maxima) BLANCO]
+STOCK - Anterior: 3474 Modificado: 3174.

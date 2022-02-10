@@ -1,0 +1,348 @@
+
+------    Martes 29 de Septiembre de 2020 ------
+MODIFICACION MANUAL
+STOCK - Anterior: 655 Modificado: 675.
+
+------    Jueves 1 de Octubre de 2020 ------
+Produccion INGRESADA [2683] | [Membrana en Pasta ROJO]
+STOCK - Anterior: 675 Modificado: 650.
+
+------    Viernes 2 de Octubre de 2020 ------
+Produccion INGRESADA [2684] | [Membrana en Pasta ROJO]
+STOCK - Anterior: 650 Modificado: 625.
+
+------    Viernes 2 de Octubre de 2020 ------
+Produccion INGRESADA [2685] | [Membrana en Pasta ROJO]
+STOCK - Anterior: 625 Modificado: 600.
+
+------    Viernes 2 de Octubre de 2020 ------
+MODIFICACION MANUAL
+STOCK - Anterior: 600 Modificado: 625.
+
+------    Martes 3 de Noviembre de 2020 ------
+Produccion INGRESADA [2700] | [Membrana en Pasta ROJO]
+STOCK - Anterior: 625 Modificado: 600.
+
+------    Jueves 5 de Noviembre de 2020 ------
+Produccion INGRESADA [2701] | [Membrana en Pasta ROJO]
+STOCK - Anterior: 600 Modificado: 575.
+
+------    Jueves 5 de Noviembre de 2020 ------
+Produccion INGRESADA [2702] | [Membrana (Maxima) ROJO]
+STOCK - Anterior: 575 Modificado: 530.
+
+------    Jueves 5 de Noviembre de 2020 ------
+Produccion INGRESADA [2703] | [Membrana (Maxima) ROJO]
+STOCK - Anterior: 530 Modificado: 485.
+
+------    Jueves 5 de Noviembre de 2020 ------
+MODIFICACION MANUAL
+STOCK - Anterior: 485 Modificado: 525.
+
+------    Miércoles 11 de Noviembre de 2020 ------
+Produccion INGRESADA [2714] | [Membrana en Pasta ROJO]
+STOCK - Anterior: 525 Modificado: 500.
+
+------    Jueves 12 de Noviembre de 2020 ------
+Produccion INGRESADA [2715] | [Membrana (Maxima) ROJO]
+STOCK - Anterior: 500 Modificado: 455.
+
+------    Viernes 13 de Noviembre de 2020 ------
+MODIFICACION MANUAL
+STOCK - Anterior: 455 Modificado: 475.
+
+------    Viernes 13 de Noviembre de 2020 ------
+Produccion INGRESADA [2717] | [Membrana (Maxima) ROJO]
+STOCK - Anterior: 475 Modificado: 450.
+
+------    Martes 1 de Diciembre de 2020 ------
+Produccion INGRESADA [2734] | [Membrana (Maxima) ROJO]
+STOCK - Anterior: 450 Modificado: 425.
+
+------    Viernes 4 de Diciembre de 2020 ------
+Produccion INGRESADA [2735] | [Membrana en Pasta ROJO]
+STOCK - Anterior: 425 Modificado: 400.
+
+------    Martes 15 de Diciembre de 2020 ------
+Produccion INGRESADA [2745] | [Membrana (Maxima) ROJO]
+STOCK - Anterior: 400 Modificado: 375.
+
+------    Martes 15 de Diciembre de 2020 ------
+Produccion INGRESADA [2746] | [Membrana (Maxima) ROJO]
+STOCK - Anterior: 375 Modificado: 350.
+
+------    Martes 22 de Diciembre de 2020 ------
+Produccion INGRESADA [2755] | [Membrana (Maxima) ROJO]
+STOCK - Anterior: 305 Modificado: 280.
+
+------    Martes 22 de Diciembre de 2020 ------
+Produccion INGRESADA [2756] | [Membrana (Maxima) ROJO]
+STOCK - Anterior: 280 Modificado: 255.
+
+------    Miércoles 23 de Diciembre de 2020 ------
+Produccion INGRESADA [2764] | [Membrana (Maxima) ROJO]
+STOCK - Anterior: 255 Modificado: 230.
+
+------    Viernes 15 de Enero de 2021 ------
+REPOSICION DE STOCK
+STOCK - Anterior: 230 Modificado: 530.
+
+------    Viernes 15 de Enero de 2021 ------
+Produccion INGRESADA [2780] | [Membrana (Maxima) ROJO]
+STOCK - Anterior: 530 Modificado: 505.
+
+------    Lunes 18 de Enero de 2021 ------
+Produccion INGRESADA [2781] | [Membrana en Pasta ROJO]
+STOCK - Anterior: 505 Modificado: 480.
+
+------    Lunes 1 de Febrero de 2021 ------
+Produccion INGRESADA [2799] | [Membrana en Pasta ROJO]
+STOCK - Anterior: 480 Modificado: 455.
+
+------    Lunes 1 de Febrero de 2021 ------
+Produccion INGRESADA [2800] | [Membrana (Maxima) ROJO]
+STOCK - Anterior: 455 Modificado: 430.
+
+------    Lunes 1 de Febrero de 2021 ------
+Produccion INGRESADA [2801] | [Membrana (Maxima) ROJO]
+STOCK - Anterior: 430 Modificado: 405.
+
+------    Viernes 5 de Febrero de 2021 ------
+Produccion INGRESADA [2806] | [Membrana (Maxima) ROJO]
+STOCK - Anterior: 405 Modificado: 380.
+
+------    Martes 9 de Febrero de 2021 ------
+Produccion INGRESADA [2807] | [Membrana en Pasta ROJO]
+STOCK - Anterior: 380 Modificado: 355.
+
+------    Lunes 22 de Febrero de 2021 ------
+Produccion INGRESADA [2815] | [Membrana (Maxima) ROJO]
+STOCK - Anterior: 355 Modificado: 330.
+
+------    Lunes 22 de Febrero de 2021 ------
+Produccion INGRESADA [2816] | [Membrana (Maxima) ROJO]
+STOCK - Anterior: 330 Modificado: 305.
+
+------    Lunes 22 de Febrero de 2021 ------
+Produccion INGRESADA [2817] | [Membrana (Maxima) ROJO]
+STOCK - Anterior: 305 Modificado: 280.
+
+------    Lunes 22 de Febrero de 2021 ------
+Produccion INGRESADA [2818] | [Membrana en Pasta ROJO]
+STOCK - Anterior: 280 Modificado: 255.
+
+------    Viernes 26 de Febrero de 2021 ------
+Produccion INGRESADA [2826] | [Membrana en Pasta ROJO]
+STOCK - Anterior: 255 Modificado: 230.
+
+------    Jueves 4 de Marzo de 2021 ------
+Produccion INGRESADA [2830] | [Membrana (Maxima) ROJO]
+STOCK - Anterior: 230 Modificado: 205.
+
+------    Miércoles 10 de Marzo de 2021 ------
+Produccion INGRESADA [2833] | [Membrana en Pasta ROJO]
+STOCK - Anterior: 205 Modificado: 180.
+
+------    Viernes 12 de Marzo de 2021 ------
+Produccion INGRESADA [2834] | [Membrana en Pasta ROJO]
+STOCK - Anterior: 180 Modificado: 155.
+
+------    Martes 16 de Marzo de 2021 ------
+Produccion INGRESADA [2836] | [Membrana (Maxima) ROJO]
+STOCK - Anterior: 155 Modificado: 130.
+
+------    Viernes 19 de Marzo de 2021 ------
+REPOSICION DE STOCK
+STOCK - Anterior: 130 Modificado: 730.
+
+------    Lunes 5 de Abril de 2021 ------
+Produccion INGRESADA [2842] | [Membrana en Pasta ROJO]
+STOCK - Anterior: 730 Modificado: 705.
+
+------    Lunes 5 de Abril de 2021 ------
+Produccion INGRESADA [2843] | [Membrana (Maxima) ROJO]
+STOCK - Anterior: 705 Modificado: 680.
+
+------    Miércoles 7 de Abril de 2021 ------
+Produccion INGRESADA [2844] | [Membrana en Pasta ROJO]
+STOCK - Anterior: 680 Modificado: 655.
+
+------    Jueves 15 de Abril de 2021 ------
+Produccion INGRESADA [2852] | [Membrana (Maxima) ROJO]
+STOCK - Anterior: 655 Modificado: 630.
+
+------    Jueves 15 de Abril de 2021 ------
+Produccion INGRESADA [2853] | [Membrana (Maxima) ROJO]
+STOCK - Anterior: 630 Modificado: 605.
+
+------    Jueves 22 de Abril de 2021 ------
+Produccion INGRESADA [2859] | [Membrana en Pasta ROJO]
+STOCK - Anterior: 605 Modificado: 580.
+
+------    Jueves 22 de Abril de 2021 ------
+Produccion INGRESADA [2860] | [Membrana en Pasta ROJO]
+STOCK - Anterior: 580 Modificado: 555.
+
+------    Viernes 23 de Abril de 2021 ------
+Produccion INGRESADA [2861] | [Membrana (Maxima) ROJO]
+STOCK - Anterior: 555 Modificado: 530.
+
+------    Viernes 23 de Abril de 2021 ------
+Produccion INGRESADA [2862] | [Membrana en Pasta ROJO]
+STOCK - Anterior: 530 Modificado: 505.
+
+------    Lunes 3 de Mayo de 2021 ------
+Produccion INGRESADA [2869] | [Membrana (Maxima) ROJO]
+STOCK - Anterior: 505 Modificado: 480.
+
+------    Martes 4 de Mayo de 2021 ------
+Produccion INGRESADA [2870] | [Membrana en Pasta ROJO]
+STOCK - Anterior: 480 Modificado: 455.
+
+------    Martes 4 de Mayo de 2021 ------
+Produccion INGRESADA [2871] | [Membrana en Pasta ROJO]
+STOCK - Anterior: 455 Modificado: 430.
+
+------    Viernes 7 de Mayo de 2021 ------
+Produccion INGRESADA [2875] | [Membrana (Maxima) ROJO]
+STOCK - Anterior: 430 Modificado: 405.
+
+------    Viernes 7 de Mayo de 2021 ------
+Produccion INGRESADA [2876] | [Membrana (Maxima) ROJO]
+STOCK - Anterior: 405 Modificado: 380.
+
+------    Miércoles 19 de Mayo de 2021 ------
+Produccion INGRESADA [2885] | [Membrana (Maxima) ROJO]
+STOCK - Anterior: 380 Modificado: 355.
+
+------    Jueves 20 de Mayo de 2021 ------
+Produccion INGRESADA [2886] | [Membrana (Maxima) ROJO]
+STOCK - Anterior: 355 Modificado: 330.
+
+------    Jueves 20 de Mayo de 2021 ------
+Produccion INGRESADA [2887] | [Membrana en Pasta ROJO]
+STOCK - Anterior: 330 Modificado: 305.
+
+------    Viernes 28 de Mayo de 2021 ------
+Produccion INGRESADA [2891] | [Membrana (Maxima) ROJO]
+STOCK - Anterior: 305 Modificado: 280.
+
+------    Lunes 7 de Junio de 2021 ------
+Produccion INGRESADA [2894] | [Membrana (Maxima) ROJO]
+STOCK - Anterior: 280 Modificado: 255.
+
+------    Viernes 11 de Junio de 2021 ------
+Produccion INGRESADA [2897] | [Membrana en Pasta ROJO]
+STOCK - Anterior: 255 Modificado: 230.
+
+------    Viernes 2 de Julio de 2021 ------
+Produccion INGRESADA [2915] | [Membrana (Maxima) ROJO]
+STOCK - Anterior: 230 Modificado: 205.
+
+------    Lunes 12 de Julio de 2021 ------
+Produccion INGRESADA [2921] | [Membrana (Maxima) ROJO]
+STOCK - Anterior: 205 Modificado: 180.
+
+------    Viernes 23 de Julio de 2021 ------
+MODIFICACION MANUAL
+STOCK - Anterior: 180 Modificado: 200.
+
+------    Viernes 30 de Julio de 2021 ------
+Produccion INGRESADA [2934] | [Membrana (Maxima) ROJO]
+STOCK - Anterior: 200 Modificado: 175.
+
+------    Viernes 30 de Julio de 2021 ------
+Produccion INGRESADA [2935] | [Membrana en Pasta ROJO]
+STOCK - Anterior: 175 Modificado: 150.
+
+------    Jueves 12 de Agosto de 2021 ------
+REPOSICION DE STOCK
+STOCK - Anterior: 150 Modificado: 850.
+
+------    Viernes 27 de Agosto de 2021 ------
+Produccion INGRESADA [2941] | [Membrana (Maxima) ROJO]
+STOCK - Anterior: 850 Modificado: 825.
+
+------    Viernes 10 de Septiembre de 2021 ------
+Produccion INGRESADA [2953] | [Membrana (Maxima) ROJO]
+STOCK - Anterior: 825 Modificado: 800.
+
+------    Lunes 13 de Septiembre de 2021 ------
+Produccion INGRESADA [2954] | [Membrana en Pasta ROJO]
+STOCK - Anterior: 800 Modificado: 775.
+
+------    Jueves 16 de Septiembre de 2021 ------
+Produccion INGRESADA [2955] | [Membrana en Pasta ROJO]
+STOCK - Anterior: 775 Modificado: 750.
+
+------    Viernes 17 de Septiembre de 2021 ------
+Produccion INGRESADA [2956] | [Membrana (Maxima) ROJO]
+STOCK - Anterior: 750 Modificado: 725.
+
+------    Viernes 17 de Septiembre de 2021 ------
+Produccion INGRESADA [2957] | [Membrana (Maxima) ROJO]
+STOCK - Anterior: 725 Modificado: 700.
+
+------    Viernes 1 de Octubre de 2021 ------
+Produccion INGRESADA [2968] | [Membrana en Pasta ROJO]
+STOCK - Anterior: 700 Modificado: 675.
+
+------    Viernes 22 de Octubre de 2021 ------
+Produccion INGRESADA [2977] | [Membrana (Maxima) ROJO]
+STOCK - Anterior: 675 Modificado: 650.
+
+------    Viernes 29 de Octubre de 2021 ------
+Produccion INGRESADA [2986] | [Membrana en Pasta ROJO]
+STOCK - Anterior: 650 Modificado: 625.
+
+------    Viernes 5 de Noviembre de 2021 ------
+Produccion INGRESADA [2987] | [Membrana en Pasta ROJO]
+STOCK - Anterior: 625 Modificado: 600.
+
+------    Jueves 25 de Noviembre de 2021 ------
+Produccion INGRESADA [2997] | [Membrana (Maxima) ROJO]
+STOCK - Anterior: 600 Modificado: 575.
+
+------    Viernes 26 de Noviembre de 2021 ------
+Produccion INGRESADA [2998] | [Membrana (Maxima) ROJO]
+STOCK - Anterior: 575 Modificado: 550.
+
+------    Miércoles 1 de Diciembre de 2021 ------
+Produccion INGRESADA [2999] | [Membrana en Pasta ROJO]
+STOCK - Anterior: 550 Modificado: 525.
+
+------    Jueves 9 de Diciembre de 2021 ------
+Produccion INGRESADA [3007] | [Membrana (Maxima) ROJO]
+STOCK - Anterior: 525 Modificado: 500.
+
+------    Lunes 13 de Diciembre de 2021 ------
+Produccion INGRESADA [3008] | [Membrana (Maxima) ROJO]
+STOCK - Anterior: 500 Modificado: 475.
+
+------    Martes 14 de Diciembre de 2021 ------
+Produccion INGRESADA [3012] | [Membrana en Pasta ROJO]
+STOCK - Anterior: 475 Modificado: 450.
+
+------    Viernes 17 de Diciembre de 2021 ------
+Produccion INGRESADA [3017] | [Membrana (Maxima) ROJO]
+STOCK - Anterior: 450 Modificado: 425.
+
+------    Lunes 17 de Enero de 2022 ------
+Produccion INGRESADA [3027] | [Membrana (Maxima) ROJO]
+STOCK - Anterior: 425 Modificado: 400.
+
+------    Lunes 17 de Enero de 2022 ------
+Produccion INGRESADA [3028] | [Membrana (Maxima) ROJO]
+STOCK - Anterior: 400 Modificado: 375.
+
+------    Jueves 20 de Enero de 2022 ------
+Produccion INGRESADA [3031] | [Membrana en Pasta ROJO]
+STOCK - Anterior: 375 Modificado: 350.
+
+------    Viernes 28 de Enero de 2022 ------
+Produccion INGRESADA [3035] | [Membrana (Maxima) ROJO]
+STOCK - Anterior: 350 Modificado: 325.
+
+------    Martes 1 de Febrero de 2022 ------
+Produccion INGRESADA [3036] | [Membrana en Pasta ROJO]
+STOCK - Anterior: 325 Modificado: 300.

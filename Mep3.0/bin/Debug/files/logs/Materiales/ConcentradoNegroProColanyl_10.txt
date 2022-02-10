@@ -1,0 +1,88 @@
+
+------    Jueves 5 de Noviembre de 2020 ------
+Produccion INGRESADA [2704] | [Membrana (Maxima) WENGUE]
+STOCK - Anterior: 27.72 Modificado: 27.44.
+
+------    Viernes 6 de Noviembre de 2020 ------
+Produccion INGRESADA [2708] | [Membrana en Pasta WENGUE]
+STOCK - Anterior: 26.5 Modificado: 26.22.
+
+------    Martes 10 de Noviembre de 2020 ------
+Produccion INGRESADA [2709] | [Membrana (Maxima) WENGUE]
+STOCK - Anterior: 26.22 Modificado: 25.94.
+
+------    Martes 15 de Diciembre de 2020 ------
+Produccion INGRESADA [2743] | [Membrana (Maxima) WENGUE]
+STOCK - Anterior: 25.94 Modificado: 25.66.
+
+------    Miércoles 23 de Diciembre de 2020 ------
+Produccion INGRESADA [2762] | [Membrana (Maxima) WENGUE]
+STOCK - Anterior: 25.38 Modificado: 25.1.
+
+------    Miércoles 23 de Diciembre de 2020 ------
+Produccion INGRESADA [2763] | [Membrana (Maxima) WENGUE]
+STOCK - Anterior: 25.1 Modificado: 24.82.
+
+------    Lunes 18 de Enero de 2021 ------
+Produccion INGRESADA [2782] | [Membrana en Pasta WENGUE]
+STOCK - Anterior: 24.82 Modificado: 24.54.
+
+------    Lunes 1 de Febrero de 2021 ------
+Produccion INGRESADA [2798] | [Membrana en Pasta WENGUE]
+STOCK - Anterior: 24.54 Modificado: 24.25999.
+
+------    Martes 2 de Marzo de 2021 ------
+Produccion INGRESADA [2827] | [Membrana (Maxima) WENGUE]
+STOCK - Anterior: 24.25999 Modificado: 23.97999.
+
+------    Lunes 12 de Abril de 2021 ------
+Produccion INGRESADA [2848] | [Membrana (Maxima) WENGUE]
+STOCK - Anterior: 23.97999 Modificado: 23.69999.
+
+------    Martes 13 de Abril de 2021 ------
+Produccion INGRESADA [2849] | [Membrana en Pasta WENGUE]
+STOCK - Anterior: 23.69999 Modificado: 23.41999.
+
+------    Viernes 30 de Abril de 2021 ------
+Produccion INGRESADA [2867] | [Membrana en Pasta WENGUE]
+STOCK - Anterior: 23.41999 Modificado: 23.13999.
+
+------    Jueves 6 de Mayo de 2021 ------
+Produccion INGRESADA [2874] | [Membrana (Maxima) WENGUE]
+STOCK - Anterior: 23.13999 Modificado: 22.85999.
+
+------    Miércoles 19 de Mayo de 2021 ------
+Produccion INGRESADA [2883] | [Membrana (Maxima) WENGUE]
+STOCK - Anterior: 22.85999 Modificado: 22.57999.
+
+------    Miércoles 9 de Junio de 2021 ------
+Produccion INGRESADA [2895] | [Membrana (Maxima) WENGUE]
+STOCK - Anterior: 22.57999 Modificado: 22.29999.
+
+------    Lunes 12 de Julio de 2021 ------
+Produccion INGRESADA [2919] | [Membrana (Maxima) WENGUE]
+STOCK - Anterior: 22.29999 Modificado: 22.01999.
+
+------    Viernes 23 de Julio de 2021 ------
+Produccion INGRESADA [2928] | [Membrana en Pasta WENGUE]
+STOCK - Anterior: 22.01999 Modificado: 21.73999.
+
+------    Jueves 30 de Septiembre de 2021 ------
+Produccion INGRESADA [2966] | [Membrana en Pasta WENGUE]
+STOCK - Anterior: 21.73999 Modificado: 21.45999.
+
+------    Viernes 1 de Octubre de 2021 ------
+Produccion INGRESADA [2967] | [Membrana (Maxima) WENGUE]
+STOCK - Anterior: 21.45999 Modificado: 21.17999.
+
+------    Lunes 25 de Octubre de 2021 ------
+Produccion INGRESADA [2979] | [Membrana en Pasta WENGUE]
+STOCK - Anterior: 21.17999 Modificado: 20.89999.
+
+------    Jueves 16 de Diciembre de 2021 ------
+Produccion INGRESADA [3015] | [Membrana (Maxima) WENGUE]
+STOCK - Anterior: 20.89999 Modificado: 20.61999.
+
+------    Viernes 17 de Diciembre de 2021 ------
+Produccion INGRESADA [3016] | [Membrana en Pasta WENGUE]
+STOCK - Anterior: 20.61999 Modificado: 20.33998.

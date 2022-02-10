@@ -1,0 +1,172 @@
+
+------    Viernes 2 de Octubre de 2020 ------
+Produccion INGRESADA [2685] | [Membrana en Pasta VERDE]
+STOCK - Anterior: 59 Modificado: 56.
+
+------    Viernes 16 de Octubre de 2020 ------
+Produccion INGRESADA [2686] | [Membrana (Maxima) VERDE]
+STOCK - Anterior: 56 Modificado: 53.6.
+
+------    Jueves 5 de Noviembre de 2020 ------
+Produccion INGRESADA [2705] | [Membrana (Maxima) VERDE]
+STOCK - Anterior: 53.6 Modificado: 51.2.
+
+------    Jueves 5 de Noviembre de 2020 ------
+Produccion INGRESADA [2706] | [Membrana en Pasta VERDE]
+STOCK - Anterior: 51.2 Modificado: 48.2.
+
+------    Viernes 13 de Noviembre de 2020 ------
+Produccion INGRESADA [2718] | [Membrana (Maxima) VERDE]
+STOCK - Anterior: 48 Modificado: 45.6.
+
+------    Martes 15 de Diciembre de 2020 ------
+Produccion INGRESADA [2744] | [Membrana (Maxima) VERDE]
+STOCK - Anterior: 45.6 Modificado: 43.2.
+
+------    Martes 22 de Diciembre de 2020 ------
+Produccion INGRESADA [2757] | [Membrana en Pasta VERDE]
+STOCK - Anterior: 40.8 Modificado: 37.8.
+
+------    Martes 19 de Enero de 2021 ------
+Produccion INGRESADA [2783] | [Membrana en Pasta VERDE]
+STOCK - Anterior: 37.8 Modificado: 34.8.
+
+------    Martes 26 de Enero de 2021 ------
+Produccion INGRESADA [2794] | [Membrana en Pasta VERDE]
+STOCK - Anterior: 34.8 Modificado: 31.8.
+
+------    Miércoles 27 de Enero de 2021 ------
+Produccion INGRESADA [2795] | [Membrana (Maxima) VERDE]
+STOCK - Anterior: 31.8 Modificado: 29.4.
+
+------    Miércoles 27 de Enero de 2021 ------
+Produccion INGRESADA [2796] | [Membrana (Maxima) VERDE]
+STOCK - Anterior: 29.4 Modificado: 27.
+
+------    Viernes 5 de Febrero de 2021 ------
+Produccion INGRESADA [2805] | [Membrana (Maxima) VERDE]
+STOCK - Anterior: 27 Modificado: 24.6.
+
+------    Viernes 12 de Febrero de 2021 ------
+Produccion INGRESADA [2812] | [Membrana en Pasta VERDE]
+STOCK - Anterior: 24.6 Modificado: 21.6.
+
+------    Viernes 12 de Febrero de 2021 ------
+Produccion INGRESADA [2813] | [Membrana (Maxima) VERDE]
+STOCK - Anterior: 21.6 Modificado: 19.2.
+
+------    Viernes 26 de Febrero de 2021 ------
+Produccion INGRESADA [2824] | [Membrana (Maxima) VERDE]
+STOCK - Anterior: 19.2 Modificado: 16.8.
+
+------    Viernes 26 de Febrero de 2021 ------
+Produccion INGRESADA [2825] | [Membrana en Pasta VERDE]
+STOCK - Anterior: 16.8 Modificado: 13.8.
+
+------    Viernes 12 de Marzo de 2021 ------
+Produccion INGRESADA [2835] | [Membrana en Pasta VERDE]
+STOCK - Anterior: 13.8 Modificado: 10.8.
+
+------    Miércoles 14 de Abril de 2021 ------
+Produccion INGRESADA [2850] | [Membrana en Pasta VERDE]
+STOCK - Anterior: 30.8 Modificado: 27.8.
+
+------    Miércoles 14 de Abril de 2021 ------
+Produccion INGRESADA [2851] | [Membrana (Maxima) VERDE]
+STOCK - Anterior: 27.8 Modificado: 25.4.
+
+------    Viernes 16 de Abril de 2021 ------
+Produccion INGRESADA [2854] | [Membrana (Maxima) VERDE]
+STOCK - Anterior: 25.4 Modificado: 23.
+
+------    Viernes 30 de Abril de 2021 ------
+Produccion INGRESADA [2868] | [Membrana en Pasta VERDE]
+STOCK - Anterior: 23 Modificado: 20.
+
+------    Miércoles 12 de Mayo de 2021 ------
+Produccion INGRESADA [2877] | [Membrana (Maxima) VERDE]
+STOCK - Anterior: 20 Modificado: 17.6.
+
+------    Miércoles 12 de Mayo de 2021 ------
+Produccion INGRESADA [2878] | [Membrana (Maxima) VERDE]
+STOCK - Anterior: 17.6 Modificado: 15.2.
+
+------    Miércoles 12 de Mayo de 2021 ------
+Produccion INGRESADA [2879] | [Membrana en Pasta VERDE]
+STOCK - Anterior: 15.2 Modificado: 12.2.
+
+------    Miércoles 19 de Mayo de 2021 ------
+Produccion INGRESADA [2884] | [Membrana (Maxima) VERDE]
+STOCK - Anterior: 12.2 Modificado: 9.800001.
+
+------    Viernes 21 de Mayo de 2021 ------
+Produccion INGRESADA [2888] | [Membrana en Pasta VERDE]
+STOCK - Anterior: 9.800001 Modificado: 6.800001.
+
+------    Viernes 11 de Junio de 2021 ------
+Produccion INGRESADA [2896] | [Membrana (Maxima) VERDE]
+STOCK - Anterior: 46.8 Modificado: 44.4.
+
+------    Lunes 12 de Julio de 2021 ------
+Produccion INGRESADA [2920] | [Membrana (Maxima) VERDE]
+STOCK - Anterior: 44.4 Modificado: 42.
+
+------    Miércoles 21 de Julio de 2021 ------
+Produccion INGRESADA [2926] | [Membrana (Maxima) VERDE]
+STOCK - Anterior: 42 Modificado: 39.6.
+
+------    Miércoles 21 de Julio de 2021 ------
+Produccion INGRESADA [2927] | [Membrana en Pasta VERDE]
+STOCK - Anterior: 39.6 Modificado: 36.6.
+
+------    Viernes 17 de Septiembre de 2021 ------
+Produccion INGRESADA [2958] | [Membrana (Maxima) VERDE]
+STOCK - Anterior: 56.6 Modificado: 54.2.
+
+------    Viernes 17 de Septiembre de 2021 ------
+Produccion INGRESADA [2959] | [Membrana en Pasta VERDE]
+STOCK - Anterior: 54.2 Modificado: 51.2.
+
+------    Lunes 4 de Octubre de 2021 ------
+Produccion INGRESADA [2969] | [Membrana (Maxima) VERDE]
+STOCK - Anterior: 51.2 Modificado: 48.8.
+
+------    Jueves 21 de Octubre de 2021 ------
+Produccion INGRESADA [2976] | [Membrana en Pasta VERDE]
+STOCK - Anterior: 48.8 Modificado: 45.8.
+
+------    Lunes 25 de Octubre de 2021 ------
+Produccion INGRESADA [2980] | [Membrana en Pasta VERDE]
+STOCK - Anterior: 45.8 Modificado: 42.8.
+
+------    Jueves 25 de Noviembre de 2021 ------
+Produccion INGRESADA [2996] | [Membrana (Maxima) VERDE]
+STOCK - Anterior: 42.8 Modificado: 40.39999.
+
+------    Miércoles 1 de Diciembre de 2021 ------
+Produccion INGRESADA [3000] | [Membrana en Pasta VERDE]
+STOCK - Anterior: 40.39999 Modificado: 37.39999.
+
+------    Martes 7 de Diciembre de 2021 ------
+Produccion INGRESADA [3006] | [Membrana (Maxima) VERDE]
+STOCK - Anterior: 37.39999 Modificado: 34.99999.
+
+------    Viernes 17 de Diciembre de 2021 ------
+Produccion INGRESADA [3018] | [Membrana (Maxima) VERDE]
+STOCK - Anterior: 34.99999 Modificado: 32.59999.
+
+------    Martes 21 de Diciembre de 2021 ------
+Produccion INGRESADA [3019] | [Membrana en Pasta VERDE]
+STOCK - Anterior: 32.59999 Modificado: 29.59999.
+
+------    Lunes 17 de Enero de 2022 ------
+Produccion INGRESADA [3029] | [Membrana (Maxima) VERDE]
+STOCK - Anterior: 29.59999 Modificado: 27.19999.
+
+------    Martes 18 de Enero de 2022 ------
+Produccion INGRESADA [3030] | [Membrana en Pasta VERDE]
+STOCK - Anterior: 27.19999 Modificado: 24.19999.
+
+------    Martes 1 de Febrero de 2022 ------
+Produccion INGRESADA [3037] | [Membrana en Pasta VERDE]
+STOCK - Anterior: 24.19999 Modificado: 21.19999.

@@ -1,0 +1,6 @@
+
+   Miércoles 28 de Octubre de 2020Codigo del Error: The input stream is not a valid binary format. The starting contents (in bytes) are: 00-00-00-3F-00-00-00-00-00-00-01-10-00-00-00-07-00 ... Objeto: Deserializador.Producciones 
+   Miércoles 28 de Octubre de 2020Codigo del Error: The input stream is not a valid binary format. The starting contents (in bytes) are: 45-73-70-65-73-61-6E-74-65-20-48-42-52-00-00-90-40 ... Objeto: Deserializador.OrdenesDePedido 
+   Miércoles 28 de Octubre de 2020Codigo del Error: The input stream is not a valid binary format. The starting contents (in bytes) are: 00-00-00-3F-00-00-00-00-00-00-01-10-00-00-00-07-00 ... Objeto: Deserializador.Producciones 
+   Miércoles 28 de Octubre de 2020Codigo del Error: End of Stream encountered before parsing was completed. Objeto: Deserializador.OrdenesDePedido 
+   Miércoles 28 de Octubre de 2020Codigo del Error: The input stream is not a valid binary format. The starting contents (in bytes) are: 00-00-00-3F-00-00-00-00-00-00-01-10-00-00-00-07-00 ... Objeto: Deserializador.Producciones 

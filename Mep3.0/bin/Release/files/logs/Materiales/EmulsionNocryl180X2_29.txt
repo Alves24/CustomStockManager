@@ -1,0 +1,60 @@
+
+------    Martes 17 de Agosto de 2021 ------
+MODIFICACION MANUAL
+STOCK - Anterior: 4240 Modificado: 4240.
+
+------    Miércoles 8 de Septiembre de 2021 ------
+MODIFICACION MANUAL
+STOCK - Anterior: 580 Modificado: 710.
+
+------    Lunes 13 de Septiembre de 2021 ------
+MODIFICACION MANUAL
+STOCK - Anterior: -90 Modificado: 0.
+
+------    Miércoles 15 de Septiembre de 2021 ------
+REPOSICION DE STOCK
+STOCK - Anterior: 0 Modificado: 4000.
+
+------    Viernes 1 de Octubre de 2021 ------
+REPOSICION DE STOCK
+STOCK - Anterior: 270 Modificado: 2270.
+
+------    Martes 5 de Octubre de 2021 ------
+REPOSICION DE STOCK
+STOCK - Anterior: 2020 Modificado: 6020.
+
+------    Martes 9 de Noviembre de 2021 ------
+MODIFICACION MANUAL
+STOCK - Anterior: 700 Modificado: 625.
+
+------    Martes 9 de Noviembre de 2021 ------
+MODIFICACION MANUAL
+STOCK - Anterior: 625 Modificado: 700.
+
+------    Martes 9 de Noviembre de 2021 ------
+MODIFICACION MANUAL
+STOCK - Anterior: 700 Modificado: 750.
+
+------    Miércoles 10 de Noviembre de 2021 ------
+REPOSICION DE STOCK
+STOCK - Anterior: 750 Modificado: 4750.
+
+------    Martes 23 de Noviembre de 2021 ------
+MODIFICACION MANUAL
+STOCK - Anterior: 3350 Modificado: 3400.
+
+------    Jueves 2 de Diciembre de 2021 ------
+REPOSICION DE STOCK
+STOCK - Anterior: 1750 Modificado: 5750.
+
+------    Martes 21 de Diciembre de 2021 ------
+REPOSICION DE STOCK
+STOCK - Anterior: 970 Modificado: 4970.
+
+------    Lunes 17 de Enero de 2022 ------
+REPOSICION DE STOCK
+STOCK - Anterior: 3630 Modificado: 7630.
+
+------    Viernes 28 de Enero de 2022 ------
+REPOSICION DE STOCK
+STOCK - Anterior: 4430 Modificado: 8430.

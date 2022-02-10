@@ -1,0 +1,404 @@
+
+------    Martes 29 de Septiembre de 2020 ------
+Produccion INGRESADA [2677] | [Latex Pro 01 ECO BLANCO]
+STOCK - Anterior: 509 Modificado: 491.
+
+------    Martes 29 de Septiembre de 2020 ------
+Produccion INGRESADA [2678] | [Latex Pro 01 ECO BLANCO]
+STOCK - Anterior: 491 Modificado: 473.
+
+------    Martes 29 de Septiembre de 2020 ------
+Produccion INGRESADA [2679] | [Latex Pro 01 ECO BLANCO]
+STOCK - Anterior: 473 Modificado: 455.
+
+------    Jueves 1 de Octubre de 2020 ------
+Produccion INGRESADA [2680] | [Latex Pro 01 ECO BLANCO]
+STOCK - Anterior: 455 Modificado: 437.
+
+------    Viernes 16 de Octubre de 2020 ------
+REPOSICION DE STOCK
+STOCK - Anterior: 197 Modificado: 2197.
+
+------    Jueves 5 de Noviembre de 2020 ------
+MODIFICACION MANUAL
+STOCK - Anterior: 2012 Modificado: 2000.
+
+------    Viernes 6 de Noviembre de 2020 ------
+Produccion INGRESADA [2707] | [Acrilico Elastomerico x 23 GRIS HIELO]
+STOCK - Anterior: 2000 Modificado: 1975.
+
+------    Martes 24 de Noviembre de 2020 ------
+Produccion INGRESADA [2720] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 1880 Modificado: 1855.
+
+------    Martes 24 de Noviembre de 2020 ------
+Produccion INGRESADA [2721] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 1855 Modificado: 1830.
+
+------    Martes 24 de Noviembre de 2020 ------
+Produccion INGRESADA [2722] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 1830 Modificado: 1805.
+
+------    Jueves 26 de Noviembre de 2020 ------
+Produccion INGRESADA [2724] | [Latex Pro 01 ECO BLANCO]
+STOCK - Anterior: 1790 Modificado: 1772.
+
+------    Jueves 26 de Noviembre de 2020 ------
+Produccion INGRESADA [2725] | [Latex Pro 01 ECO BLANCO]
+STOCK - Anterior: 1772 Modificado: 1754.
+
+------    Jueves 26 de Noviembre de 2020 ------
+Produccion INGRESADA [2726] | [Latex Pro 01 ECO BLANCO]
+STOCK - Anterior: 1754 Modificado: 1736.
+
+------    Jueves 26 de Noviembre de 2020 ------
+Produccion INGRESADA [2727] | [Latex Pro 01 ECO BLANCO]
+STOCK - Anterior: 1736 Modificado: 1718.
+
+------    Viernes 27 de Noviembre de 2020 ------
+Produccion INGRESADA [2728] | [Latex Pro 01 ECO BLANCO]
+STOCK - Anterior: 1718 Modificado: 1700.
+
+------    Viernes 27 de Noviembre de 2020 ------
+Produccion INGRESADA [2729] | [Latex Pro 01 ECO BLANCO]
+STOCK - Anterior: 1700 Modificado: 1682.
+
+------    Martes 1 de Diciembre de 2020 ------
+Produccion INGRESADA [2733] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 1637 Modificado: 1612.
+
+------    Viernes 4 de Diciembre de 2020 ------
+Produccion INGRESADA [2736] | [Latex Pro 01 MICRO BLANCO]
+STOCK - Anterior: 1612 Modificado: 1487.
+
+------    Viernes 4 de Diciembre de 2020 ------
+Produccion INGRESADA [2738] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 1412 Modificado: 1387.
+
+------    Viernes 11 de Diciembre de 2020 ------
+Produccion INGRESADA [2739] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 1387 Modificado: 1362.
+
+------    Martes 15 de Diciembre de 2020 ------
+Produccion INGRESADA [2747] | [Latex Pro 01 ECO BLANCO]
+STOCK - Anterior: 1307 Modificado: 1289.
+
+------    Jueves 17 de Diciembre de 2020 ------
+Produccion INGRESADA [2748] | [Latex Pro 01 ECO BLANCO]
+STOCK - Anterior: 1289 Modificado: 1271.
+
+------    Jueves 17 de Diciembre de 2020 ------
+Produccion INGRESADA [2749] | [Latex Pro 01 ECO BLANCO]
+STOCK - Anterior: 1271 Modificado: 1253.
+
+------    Jueves 17 de Diciembre de 2020 ------
+Produccion INGRESADA [2750] | [Latex Pro 01 ECO BLANCO]
+STOCK - Anterior: 1253 Modificado: 1235.
+
+------    Martes 22 de Diciembre de 2020 ------
+Produccion INGRESADA [2758] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 1210 Modificado: 1185.
+
+------    Lunes 11 de Enero de 2021 ------
+Produccion INGRESADA [2766] | [Latex Pro 01 ECO BLANCO]
+STOCK - Anterior: 945 Modificado: 927.
+
+------    Lunes 11 de Enero de 2021 ------
+Produccion INGRESADA [2767] | [Latex Pro 01 ECO BLANCO]
+STOCK - Anterior: 927 Modificado: 909.
+
+------    Lunes 11 de Enero de 2021 ------
+Produccion INGRESADA [2768] | [Latex Pro 01 MICRO BLANCO]
+STOCK - Anterior: 909 Modificado: 784.
+
+------    Miércoles 13 de Enero de 2021 ------
+Produccion INGRESADA [2769] | [Latex Pro 01 MICRO BLANCO]
+STOCK - Anterior: 784 Modificado: 659.
+
+------    Viernes 15 de Enero de 2021 ------
+Produccion INGRESADA [2775] | [Latex Pro 01 ECO BLANCO]
+STOCK - Anterior: 584 Modificado: 566.
+
+------    Viernes 15 de Enero de 2021 ------
+Produccion INGRESADA [2776] | [Latex Pro 01 ECO BLANCO]
+STOCK - Anterior: 566 Modificado: 548.
+
+------    Viernes 15 de Enero de 2021 ------
+Produccion INGRESADA [2777] | [Latex Pro 01 ECO BLANCO]
+STOCK - Anterior: 548 Modificado: 530.
+
+------    Viernes 15 de Enero de 2021 ------
+Produccion INGRESADA [2778] | [Latex Pro 01 ECO BLANCO]
+STOCK - Anterior: 530 Modificado: 512.
+
+------    Viernes 15 de Enero de 2021 ------
+Produccion INGRESADA [2779] | [Latex Pro 01 ECO BLANCO]
+STOCK - Anterior: 512 Modificado: 494.
+
+------    Viernes 15 de Enero de 2021 ------
+MODIFICACION MANUAL
+STOCK - Anterior: 494 Modificado: 490.
+
+------    Martes 19 de Enero de 2021 ------
+Produccion INGRESADA [2784] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 480 Modificado: 455.
+
+------    Miércoles 20 de Enero de 2021 ------
+Produccion INGRESADA [2785] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 455 Modificado: 430.
+
+------    Jueves 21 de Enero de 2021 ------
+REPOSICION DE STOCK
+STOCK - Anterior: 400 Modificado: 4400.
+
+------    Jueves 21 de Enero de 2021 ------
+Produccion INGRESADA [2788] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 4400 Modificado: 4375.
+
+------    Viernes 22 de Enero de 2021 ------
+Produccion INGRESADA [2790] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 4300 Modificado: 4275.
+
+------    Miércoles 27 de Enero de 2021 ------
+Produccion INGRESADA [2797] | [Acrilico Elastomerico x 23 GRIS HIELO]
+STOCK - Anterior: 4230 Modificado: 4205.
+
+------    Lunes 1 de Febrero de 2021 ------
+Produccion INGRESADA [2802] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 4195 Modificado: 4170.
+
+------    Lunes 1 de Febrero de 2021 ------
+Produccion INGRESADA [2803] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 4170 Modificado: 4145.
+
+------    Miércoles 10 de Febrero de 2021 ------
+Produccion INGRESADA [2809] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 4015 Modificado: 3990.
+
+------    Miércoles 10 de Febrero de 2021 ------
+Produccion INGRESADA [2810] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 3990 Modificado: 3965.
+
+------    Martes 23 de Febrero de 2021 ------
+Produccion INGRESADA [2819] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 3875 Modificado: 3850.
+
+------    Miércoles 24 de Febrero de 2021 ------
+Produccion INGRESADA [2821] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 3835 Modificado: 3810.
+
+------    Jueves 25 de Febrero de 2021 ------
+Produccion INGRESADA [2823] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 3795 Modificado: 3770.
+
+------    Martes 2 de Marzo de 2021 ------
+Produccion INGRESADA [2828] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 3760 Modificado: 3735.
+
+------    Viernes 5 de Marzo de 2021 ------
+Produccion INGRESADA [2831] | [Acrilico Elastomerico x 23 GRIS HIELO]
+STOCK - Anterior: 3660 Modificado: 3635.
+
+------    Martes 9 de Marzo de 2021 ------
+Produccion INGRESADA [2832] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 3635 Modificado: 3610.
+
+------    Viernes 19 de Marzo de 2021 ------
+Produccion INGRESADA [2838] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 3595 Modificado: 3570.
+
+------    Viernes 19 de Marzo de 2021 ------
+REPOSICION DE STOCK
+STOCK - Anterior: 3570 Modificado: 7570.
+
+------    Viernes 19 de Marzo de 2021 ------
+Produccion INGRESADA [2839] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 7570 Modificado: 7545.
+
+------    Lunes 5 de Abril de 2021 ------
+Produccion INGRESADA [2841] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 7530 Modificado: 7505.
+
+------    Viernes 9 de Abril de 2021 ------
+Produccion INGRESADA [2846] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 7490 Modificado: 7465.
+
+------    Martes 20 de Abril de 2021 ------
+Produccion INGRESADA [2856] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 7300 Modificado: 7275.
+
+------    Jueves 22 de Abril de 2021 ------
+Produccion INGRESADA [2857] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 7275 Modificado: 7250.
+
+------    Jueves 22 de Abril de 2021 ------
+Produccion INGRESADA [2858] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 7250 Modificado: 7225.
+
+------    Martes 27 de Abril de 2021 ------
+Produccion INGRESADA [2863] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 7225 Modificado: 7200.
+
+------    Jueves 29 de Abril de 2021 ------
+Produccion INGRESADA [2864] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 7200 Modificado: 7175.
+
+------    Miércoles 5 de Mayo de 2021 ------
+Produccion INGRESADA [2872] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 7135 Modificado: 7110.
+
+------    Viernes 14 de Mayo de 2021 ------
+Produccion INGRESADA [2880] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 7085 Modificado: 7060.
+
+------    Viernes 14 de Mayo de 2021 ------
+Produccion INGRESADA [2881] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 7060 Modificado: 7035.
+
+------    Jueves 3 de Junio de 2021 ------
+Produccion INGRESADA [2892] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 6980 Modificado: 6955.
+
+------    Lunes 28 de Junio de 2021 ------
+Produccion INGRESADA [2908] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 6780 Modificado: 6755.
+
+------    Miércoles 14 de Julio de 2021 ------
+Produccion INGRESADA [2923] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 6595 Modificado: 6570.
+
+------    Jueves 15 de Julio de 2021 ------
+Produccion INGRESADA [2924] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 6570 Modificado: 6545.
+
+------    Lunes 19 de Julio de 2021 ------
+Produccion INGRESADA [2925] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 6545 Modificado: 6520.
+
+------    Viernes 23 de Julio de 2021 ------
+Produccion INGRESADA [2929] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 6510 Modificado: 6485.
+
+------    Jueves 29 de Julio de 2021 ------
+Produccion INGRESADA [2932] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 6455 Modificado: 6430.
+
+------    Jueves 29 de Julio de 2021 ------
+Produccion INGRESADA [2933] | [Acrilico Elastomerico x 23 GRIS HIELO]
+STOCK - Anterior: 6430 Modificado: 6405.
+
+------    Lunes 2 de Agosto de 2021 ------
+Produccion INGRESADA [2936] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 6405 Modificado: 6380.
+
+------    Lunes 9 de Agosto de 2021 ------
+Produccion INGRESADA [2937] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 6380 Modificado: 6355.
+
+------    Jueves 26 de Agosto de 2021 ------
+Produccion INGRESADA [2940] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 6150 Modificado: 6125.
+
+------    Martes 31 de Agosto de 2021 ------
+Produccion INGRESADA [2944] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 6095 Modificado: 6070.
+
+------    Martes 31 de Agosto de 2021 ------
+Produccion INGRESADA [2945] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 6070 Modificado: 6045.
+
+------    Jueves 2 de Septiembre de 2021 ------
+Produccion INGRESADA [2946] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 6045 Modificado: 6020.
+
+------    Viernes 3 de Septiembre de 2021 ------
+Produccion INGRESADA [2947] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 6020 Modificado: 5995.
+
+------    Lunes 20 de Septiembre de 2021 ------
+Produccion INGRESADA [2960] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 5920 Modificado: 5895.
+
+------    Martes 21 de Septiembre de 2021 ------
+Produccion INGRESADA [2961] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 5895 Modificado: 5870.
+
+------    Viernes 24 de Septiembre de 2021 ------
+Produccion INGRESADA [2962] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 5870 Modificado: 5845.
+
+------    Viernes 24 de Septiembre de 2021 ------
+Produccion INGRESADA [2963] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 5845 Modificado: 5820.
+
+------    Miércoles 13 de Octubre de 2021 ------
+Produccion INGRESADA [2971] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 5695 Modificado: 5670.
+
+------    Viernes 22 de Octubre de 2021 ------
+Produccion INGRESADA [2978] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 5495 Modificado: 5470.
+
+------    Viernes 29 de Octubre de 2021 ------
+Produccion INGRESADA [2984] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 5310 Modificado: 5285.
+
+------    Viernes 5 de Noviembre de 2021 ------
+Produccion INGRESADA [2988] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 5155 Modificado: 5130.
+
+------    Martes 9 de Noviembre de 2021 ------
+Produccion INGRESADA [2989] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 5130 Modificado: 5105.
+
+------    Martes 9 de Noviembre de 2021 ------
+MODIFICACION MANUAL
+STOCK - Anterior: 5105 Modificado: 5115.
+
+------    Jueves 11 de Noviembre de 2021 ------
+Produccion INGRESADA [2990] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 5115 Modificado: 5090.
+
+------    Martes 16 de Noviembre de 2021 ------
+Produccion INGRESADA [2992] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 5075 Modificado: 5050.
+
+------    Jueves 18 de Noviembre de 2021 ------
+Produccion INGRESADA [2993] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 5050 Modificado: 5025.
+
+------    Martes 23 de Noviembre de 2021 ------
+MODIFICACION MANUAL
+STOCK - Anterior: 5010 Modificado: 5020.
+
+------    Jueves 25 de Noviembre de 2021 ------
+Produccion INGRESADA [2995] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 5020 Modificado: 4995.
+
+------    Lunes 13 de Diciembre de 2021 ------
+Produccion INGRESADA [3009] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 4920 Modificado: 4895.
+
+------    Lunes 13 de Diciembre de 2021 ------
+Produccion INGRESADA [3010] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 4895 Modificado: 4870.
+
+------    Miércoles 22 de Diciembre de 2021 ------
+Produccion INGRESADA [3020] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 4705 Modificado: 4680.
+
+------    Jueves 23 de Diciembre de 2021 ------
+Produccion INGRESADA [3022] | [Acrilico Elastomerico x 23 GRIS HIELO]
+STOCK - Anterior: 4605 Modificado: 4580.
+
+------    Lunes 17 de Enero de 2022 ------
+Produccion INGRESADA [3023] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 4580 Modificado: 4555.
+
+------    Viernes 21 de Enero de 2022 ------
+Produccion INGRESADA [3032] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 4510 Modificado: 4485.
+
+------    Jueves 27 de Enero de 2022 ------
+Produccion INGRESADA [3034] | [Membrana en Pasta BLANCO]
+STOCK - Anterior: 4470 Modificado: 4445.

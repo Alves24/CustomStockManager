@@ -1,0 +1,236 @@
+C:\Users\Alves\Desktop\Mep3.0\Mep3.0\bin\Debug\Mep3.0.exe.config
+C:\Users\Alves\Desktop\Mep3.0\Mep3.0\bin\Debug\Mep3.0.exe
+C:\Users\Alves\Desktop\Mep3.0\Mep3.0\bin\Debug\Mep3.0.pdb
+C:\Users\Alves\Desktop\Mep3.0\Mep3.0\obj\Debug\Mep3._0.Properties.Resources.resources
+C:\Users\Alves\Desktop\Mep3.0\Mep3.0\obj\Debug\Mep3.0.csproj.GenerateResource.Cache
+C:\Users\Alves\Desktop\Mep3.0\Mep3.0\obj\Debug\Mep3.0.exe
+C:\Users\Alves\Desktop\Mep3.0\Mep3.0\obj\Debug\Mep3.0.pdb
+C:\Users\Alves\Desktop\Mep3.0\Mep3.0\bin\Debug\Mep3.0.exe.manifest
+C:\Users\Alves\Desktop\Mep3.0\Mep3.0\bin\Debug\Mep3.0.application
+C:\Users\Alves\Desktop\Mep3.0\Mep3.0\obj\Debug\Mep3.0.exe.manifest
+C:\Users\Alves\Desktop\Mep3.0\Mep3.0\obj\Debug\Mep3.0.application
+C:\Users\Alves\Desktop\Mep3.0\Mep3.0\obj\Debug\Mep3._0.frmMENU.resources
+C:\Users\Alves\Desktop\Mep3.0\Mep3.0\obj\Debug\Mep3._0.frmOrden.resources
+C:\Users\Alves\Desktop\Mep3.0\Mep3.0\obj\Debug\Mep3._0.frmProduccion.resources
+C:\Users\Alves\Desktop\Mep3.0\Mep3.0\obj\Debug\Mep3._0.frmCambiarNroProduccion.resources
+C:\Users\Alves\Desktop\Mep3.0\Mep3.0\obj\Debug\Mep3._0.frmModificarProductos.resources
+C:\Users\Alves\Desktop\Mep3.0\Mep3.0\obj\Debug\Mep3._0.frmAgregarProducto.resources
+C:\Users\Alves\Desktop\Mep3.0\Mep3.0\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\Alves\Desktop\Mep3.0\Mep3.0\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\Alves\Desktop\Mep3.0\Mep3.0\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll
+C:\Users\Alves\Desktop\Mep3.0\Mep3.0\obj\Debug\Mep3.0.csprojAssemblyReference.cache
+C:\Users\Alves\Desktop\Mep3.0\Mep3.0\obj\Debug\Mep3.0.csproj.CopyComplete
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep3.0\Mep3.0\bin\Debug\x86\sqlite3.dll
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep3.0\Mep3.0\bin\Debug\x64\sqlite3.dll
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep3.0\Mep3.0\bin\Debug\Mep3.0.exe.config
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep3.0\Mep3.0\bin\Debug\Mep3.0.exe.manifest
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep3.0\Mep3.0\bin\Debug\Mep3.0.application
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep3.0\Mep3.0\bin\Debug\Mep3.0.exe
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep3.0\Mep3.0\bin\Debug\Mep3.0.pdb
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep3.0\Mep3.0\obj\Debug\Mep3.0.csprojAssemblyReference.cache
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep3.0\Mep3.0\obj\Debug\Mep3._0.frmCambiarNroProduccion.resources
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep3.0\Mep3.0\obj\Debug\Mep3._0.frmModificarProductos.resources
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep3.0\Mep3.0\obj\Debug\Mep3._0.frmAgregarProducto.resources
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep3.0\Mep3.0\obj\Debug\Mep3._0.frmMENU.resources
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep3.0\Mep3.0\obj\Debug\Mep3._0.frmProduccion.resources
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep3.0\Mep3.0\obj\Debug\Mep3._0.Properties.Resources.resources
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep3.0\Mep3.0\obj\Debug\Mep3.0.csproj.GenerateResource.cache
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep3.0\Mep3.0\obj\Debug\Mep3.0.exe.manifest
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep3.0\Mep3.0\obj\Debug\Mep3.0.application
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep3.0\Mep3.0\obj\Debug\Mep3.0.csproj.CopyComplete
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep3.0\Mep3.0\obj\Debug\Mep3.0.exe
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep3.0\Mep3.0\obj\Debug\Mep3.0.pdb
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep3.0\Mep3.0\obj\Debug\Mep3._0.frmOrden.resources
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep3.0\Mep3.0\obj\Debug\Mep3._0.subOrdenAGREGAR.resources
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep3.0\Mep3.0\obj\Debug\Mep3._0.frmBorrar.resources
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep3.0\Mep3.0\obj\Debug\Mep3._0.form_ModificarRecetas.resources
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep3.0\Mep3.0\obj\Debug\Mep3._0.subform_AddMp.resources
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep3.0\Mep3.0\obj\Debug\Mep3._0.frmConsulta.resources
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep3.0\Mep3.0\bin\Debug\IronPdf.xml
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep3.0\Mep3.0\obj\Debug\Mep3._0.form_addORmod_MP.resources
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep3.0\Mep3.0\obj\Debug\Mep3._0.subform_AgregarStockMP.resources
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep3.0\Mep3.0\obj\Debug\Mep3._0.frmMOD_Ordenes.resources
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep3.0\Mep3.0\obj\Debug\Mep3._0.frm_Ver.resources
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep Project\Mep3.0\Mep3.0\bin\Debug\Mep3.0.exe.config
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep Project\Mep3.0\Mep3.0\bin\Debug\Mep3.0.exe.manifest
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep Project\Mep3.0\Mep3.0\bin\Debug\Mep3.0.application
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep Project\Mep3.0\Mep3.0\bin\Debug\Mep3.0.exe
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep Project\Mep3.0\Mep3.0\bin\Debug\Mep3.0.pdb
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep Project\Mep3.0\Mep3.0\bin\Debug\IronPdf.Assets.Rendering.Windows.dll
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep Project\Mep3.0\Mep3.0\bin\Debug\IronPdf.dll
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep Project\Mep3.0\Mep3.0\bin\Debug\System.Data.SQLite.dll
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep Project\Mep3.0\Mep3.0\bin\Debug\IronPdf.xml
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep Project\Mep3.0\Mep3.0\bin\Debug\System.Data.SQLite.xml
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep Project\Mep3.0\Mep3.0\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep Project\Mep3.0\Mep3.0\obj\Debug\Mep3.0.csprojAssemblyReference.cache
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep Project\Mep3.0\Mep3.0\obj\Debug\Mep3._0.frmCambiarNroProduccion.resources
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep Project\Mep3.0\Mep3.0\obj\Debug\Mep3._0.frmConsulta.resources
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep Project\Mep3.0\Mep3.0\obj\Debug\Mep3._0.frmModificarProductos.resources
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep Project\Mep3.0\Mep3.0\obj\Debug\Mep3._0.frmAgregarProducto.resources
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep Project\Mep3.0\Mep3.0\obj\Debug\Mep3._0.frmMENU.resources
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep Project\Mep3.0\Mep3.0\obj\Debug\Mep3._0.frmOrden.resources
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep Project\Mep3.0\Mep3.0\obj\Debug\Mep3._0.subOrdenAGREGAR.resources
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep Project\Mep3.0\Mep3.0\obj\Debug\Mep3._0.frmProduccion.resources
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep Project\Mep3.0\Mep3.0\obj\Debug\Mep3._0.form_addORmod_MP.resources
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep Project\Mep3.0\Mep3.0\obj\Debug\Mep3._0.Properties.Resources.resources
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep Project\Mep3.0\Mep3.0\obj\Debug\Mep3.0.csproj.GenerateResource.cache
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep Project\Mep3.0\Mep3.0\obj\Debug\Mep3.0.exe.manifest
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep Project\Mep3.0\Mep3.0\obj\Debug\Mep3.0.application
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep Project\Mep3.0\Mep3.0\obj\Debug\Mep3.0.csproj.CopyComplete
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep Project\Mep3.0\Mep3.0\obj\Debug\Mep3.0.exe
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep Project\Mep3.0\Mep3.0\obj\Debug\Mep3.0.pdb
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep Project\Mep3.0\Mep3.0\bin\Debug\x86\sqlite3.dll
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep Project\Mep3.0\Mep3.0\bin\Debug\x64\sqlite3.dll
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep Project\Mep3.0\Mep3.0\obj\Debug\Consultas.ConsultaConDelegados.resources
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep Project\Mep3.0\Mep3.0\obj\Debug\LibreriaPersonal.Porcentajes.resources
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep Project\Mep3.0\Mep3.0\obj\Debug\Mep3._0.AgregarMpReceta.resources
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep Project\Mep3.0\Mep3.0\obj\Debug\Mep3._0.AgregarStockMP.resources
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep Project\Mep3.0\Mep3.0\obj\Debug\Mep3._0.frmModificarRecetas.resources
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep Project\Mep3.0\Mep3.0\obj\Debug\Mep3._0.frmVerRegistros.resources
+C:\Users\Alves\Desktop\Visual Studio Proyects\Mep Project\Mep3.0\Mep3.0\obj\Debug\Mep3._0.frmVerMasRegistros.resources
+C:\Users\julia\Desktop\Mep Project\Project MEP\Mep3.0\bin\Debug\x86\sqlite3.dll
+C:\Users\julia\Desktop\Mep Project\Project MEP\Mep3.0\bin\Debug\x64\sqlite3.dll
+C:\Users\julia\Desktop\Mep Project\Project MEP\Mep3.0\bin\Debug\Mep3.0.exe.config
+C:\Users\julia\Desktop\Mep Project\Project MEP\Mep3.0\bin\Debug\Mep3.0.exe.manifest
+C:\Users\julia\Desktop\Mep Project\Project MEP\Mep3.0\bin\Debug\Mep3.0.application
+C:\Users\julia\Desktop\Mep Project\Project MEP\Mep3.0\bin\Debug\Mep3.0.exe
+C:\Users\julia\Desktop\Mep Project\Project MEP\Mep3.0\bin\Debug\Mep3.0.pdb
+C:\Users\julia\Desktop\Mep Project\Project MEP\Mep3.0\bin\Debug\IronPdf.Assets.Rendering.Windows.dll
+C:\Users\julia\Desktop\Mep Project\Project MEP\Mep3.0\bin\Debug\IronPdf.dll
+C:\Users\julia\Desktop\Mep Project\Project MEP\Mep3.0\bin\Debug\System.Data.SQLite.dll
+C:\Users\julia\Desktop\Mep Project\Project MEP\Mep3.0\bin\Debug\IronPdf.xml
+C:\Users\julia\Desktop\Mep Project\Project MEP\Mep3.0\bin\Debug\System.Data.SQLite.xml
+C:\Users\julia\Desktop\Mep Project\Project MEP\Mep3.0\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\julia\Desktop\Mep Project\Project MEP\Mep3.0\obj\Debug\Mep3.0.csprojAssemblyReference.cache
+C:\Users\julia\Desktop\Mep Project\Project MEP\Mep3.0\obj\Debug\Consultas.ConsultaConDelegados.resources
+C:\Users\julia\Desktop\Mep Project\Project MEP\Mep3.0\obj\Debug\Mep3._0.frmVerMasRegistros.resources
+C:\Users\julia\Desktop\Mep Project\Project MEP\Mep3.0\obj\Debug\Mep3._0.frmCambiarNroProduccion.resources
+C:\Users\julia\Desktop\Mep Project\Project MEP\Mep3.0\obj\Debug\Mep3._0.frmConsulta.resources
+C:\Users\julia\Desktop\Mep Project\Project MEP\Mep3.0\obj\Debug\Mep3._0.frmModificarProductos.resources
+C:\Users\julia\Desktop\Mep Project\Project MEP\Mep3.0\obj\Debug\Mep3._0.frmAgregarProducto.resources
+C:\Users\julia\Desktop\Mep Project\Project MEP\Mep3.0\obj\Debug\Mep3._0.frmMENU.resources
+C:\Users\julia\Desktop\Mep Project\Project MEP\Mep3.0\obj\Debug\Mep3._0.frmOrden.resources
+C:\Users\julia\Desktop\Mep Project\Project MEP\Mep3.0\obj\Debug\Mep3._0.subOrdenAGREGAR.resources
+C:\Users\julia\Desktop\Mep Project\Project MEP\Mep3.0\obj\Debug\Mep3._0.frmProduccion.resources
+C:\Users\julia\Desktop\Mep Project\Project MEP\Mep3.0\obj\Debug\Mep3._0.form_addORmod_MP.resources
+C:\Users\julia\Desktop\Mep Project\Project MEP\Mep3.0\obj\Debug\Mep3._0.frmModificarRecetas.resources
+C:\Users\julia\Desktop\Mep Project\Project MEP\Mep3.0\obj\Debug\Mep3._0.AgregarMpReceta.resources
+C:\Users\julia\Desktop\Mep Project\Project MEP\Mep3.0\obj\Debug\Mep3._0.AgregarStockMP.resources
+C:\Users\julia\Desktop\Mep Project\Project MEP\Mep3.0\obj\Debug\Mep3._0.frmVerRegistros.resources
+C:\Users\julia\Desktop\Mep Project\Project MEP\Mep3.0\obj\Debug\LibreriaPersonal.Porcentajes.resources
+C:\Users\julia\Desktop\Mep Project\Project MEP\Mep3.0\obj\Debug\Mep3._0.Properties.Resources.resources
+C:\Users\julia\Desktop\Mep Project\Project MEP\Mep3.0\obj\Debug\Mep3.0.csproj.GenerateResource.cache
+C:\Users\julia\Desktop\Mep Project\Project MEP\Mep3.0\obj\Debug\Mep3.0.csproj.CoreCompileInputs.cache
+C:\Users\julia\Desktop\Mep Project\Project MEP\Mep3.0\obj\Debug\Mep3.0.exe.manifest
+C:\Users\julia\Desktop\Mep Project\Project MEP\Mep3.0\obj\Debug\Mep3.0.application
+C:\Users\julia\Desktop\Mep Project\Project MEP\Mep3.0\obj\Debug\Mep3.0.csproj.CopyComplete
+C:\Users\julia\Desktop\Mep Project\Project MEP\Mep3.0\obj\Debug\Mep3.0.exe
+C:\Users\julia\Desktop\Mep Project\Project MEP\Mep3.0\obj\Debug\Mep3.0.pdb
+C:\Users\julia\Desktop\Project MEP\Mep3.0\bin\Debug\x86\sqlite3.dll
+C:\Users\julia\Desktop\Project MEP\Mep3.0\bin\Debug\x64\sqlite3.dll
+C:\Users\julia\Desktop\Project MEP\Mep3.0\bin\Debug\Mep3.0.exe.config
+C:\Users\julia\Desktop\Project MEP\Mep3.0\bin\Debug\Mep3.0.exe
+C:\Users\julia\Desktop\Project MEP\Mep3.0\bin\Debug\Mep3.0.pdb
+C:\Users\julia\Desktop\Project MEP\Mep3.0\bin\Debug\IronPdf.Assets.Rendering.Windows.dll
+C:\Users\julia\Desktop\Project MEP\Mep3.0\bin\Debug\IronPdf.dll
+C:\Users\julia\Desktop\Project MEP\Mep3.0\bin\Debug\System.Data.SQLite.dll
+C:\Users\julia\Desktop\Project MEP\Mep3.0\bin\Debug\IronPdf.xml
+C:\Users\julia\Desktop\Project MEP\Mep3.0\bin\Debug\System.Data.SQLite.xml
+C:\Users\julia\Desktop\Project MEP\Mep3.0\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\julia\Desktop\Project MEP\Mep3.0\obj\Debug\Mep3.0.csprojAssemblyReference.cache
+C:\Users\julia\Desktop\Project MEP\Mep3.0\obj\Debug\Consultas.ConsultaConDelegados.resources
+C:\Users\julia\Desktop\Project MEP\Mep3.0\obj\Debug\Mep3._0.frmVerMasRegistros.resources
+C:\Users\julia\Desktop\Project MEP\Mep3.0\obj\Debug\Mep3._0.frmCambiarNroProduccion.resources
+C:\Users\julia\Desktop\Project MEP\Mep3.0\obj\Debug\Mep3._0.frmConsulta.resources
+C:\Users\julia\Desktop\Project MEP\Mep3.0\obj\Debug\Mep3._0.frmModificarProductos.resources
+C:\Users\julia\Desktop\Project MEP\Mep3.0\obj\Debug\Mep3._0.frmAgregarProducto.resources
+C:\Users\julia\Desktop\Project MEP\Mep3.0\obj\Debug\Mep3._0.frmMENU.resources
+C:\Users\julia\Desktop\Project MEP\Mep3.0\obj\Debug\Mep3._0.frmOrden.resources
+C:\Users\julia\Desktop\Project MEP\Mep3.0\obj\Debug\Mep3._0.subOrdenAGREGAR.resources
+C:\Users\julia\Desktop\Project MEP\Mep3.0\obj\Debug\Mep3._0.frmProduccion.resources
+C:\Users\julia\Desktop\Project MEP\Mep3.0\obj\Debug\Mep3._0.form_addORmod_MP.resources
+C:\Users\julia\Desktop\Project MEP\Mep3.0\obj\Debug\Mep3._0.frmModificarRecetas.resources
+C:\Users\julia\Desktop\Project MEP\Mep3.0\obj\Debug\Mep3._0.AgregarMpReceta.resources
+C:\Users\julia\Desktop\Project MEP\Mep3.0\obj\Debug\Mep3._0.AgregarStockMP.resources
+C:\Users\julia\Desktop\Project MEP\Mep3.0\obj\Debug\Mep3._0.frmVerRegistros.resources
+C:\Users\julia\Desktop\Project MEP\Mep3.0\obj\Debug\LibreriaPersonal.Porcentajes.resources
+C:\Users\julia\Desktop\Project MEP\Mep3.0\obj\Debug\Mep3._0.Properties.Resources.resources
+C:\Users\julia\Desktop\Project MEP\Mep3.0\obj\Debug\Mep3.0.csproj.GenerateResource.cache
+C:\Users\julia\Desktop\Project MEP\Mep3.0\obj\Debug\Mep3.0.csproj.CoreCompileInputs.cache
+C:\Users\julia\Desktop\Project MEP\Mep3.0\obj\Debug\Mep3.0.csproj.CopyComplete
+C:\Users\julia\Desktop\Project MEP\Mep3.0\obj\Debug\Mep3.0.exe
+C:\Users\julia\Desktop\Project MEP\Mep3.0\obj\Debug\Mep3.0.pdb
+C:\Users\julia\Desktop\Project MEP\M.E.P.s\Mep3.0\bin\Debug\x86\sqlite3.dll
+C:\Users\julia\Desktop\Project MEP\M.E.P.s\Mep3.0\bin\Debug\x64\sqlite3.dll
+C:\Users\julia\Desktop\Project MEP\M.E.P.s\Mep3.0\bin\Debug\Mep3.0.exe.config
+C:\Users\julia\Desktop\Project MEP\M.E.P.s\Mep3.0\bin\Debug\Mep3.0.exe
+C:\Users\julia\Desktop\Project MEP\M.E.P.s\Mep3.0\bin\Debug\Mep3.0.pdb
+C:\Users\julia\Desktop\Project MEP\M.E.P.s\Mep3.0\bin\Debug\IronPdf.Assets.Rendering.Windows.dll
+C:\Users\julia\Desktop\Project MEP\M.E.P.s\Mep3.0\bin\Debug\IronPdf.dll
+C:\Users\julia\Desktop\Project MEP\M.E.P.s\Mep3.0\bin\Debug\System.Data.SQLite.dll
+C:\Users\julia\Desktop\Project MEP\M.E.P.s\Mep3.0\bin\Debug\IronPdf.xml
+C:\Users\julia\Desktop\Project MEP\M.E.P.s\Mep3.0\bin\Debug\System.Data.SQLite.xml
+C:\Users\julia\Desktop\Project MEP\M.E.P.s\Mep3.0\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\julia\Desktop\Project MEP\M.E.P.s\Mep3.0\obj\Debug\Mep3.0.csprojAssemblyReference.cache
+C:\Users\julia\Desktop\Project MEP\M.E.P.s\Mep3.0\obj\Debug\Consultas.ConsultaConDelegados.resources
+C:\Users\julia\Desktop\Project MEP\M.E.P.s\Mep3.0\obj\Debug\Mep3._0.frmVerMasRegistros.resources
+C:\Users\julia\Desktop\Project MEP\M.E.P.s\Mep3.0\obj\Debug\Mep3._0.frmCambiarNroProduccion.resources
+C:\Users\julia\Desktop\Project MEP\M.E.P.s\Mep3.0\obj\Debug\Mep3._0.frmConsulta.resources
+C:\Users\julia\Desktop\Project MEP\M.E.P.s\Mep3.0\obj\Debug\Mep3._0.frmModificarProductos.resources
+C:\Users\julia\Desktop\Project MEP\M.E.P.s\Mep3.0\obj\Debug\Mep3._0.frmAgregarProducto.resources
+C:\Users\julia\Desktop\Project MEP\M.E.P.s\Mep3.0\obj\Debug\Mep3._0.frmMENU.resources
+C:\Users\julia\Desktop\Project MEP\M.E.P.s\Mep3.0\obj\Debug\Mep3._0.frmOrden.resources
+C:\Users\julia\Desktop\Project MEP\M.E.P.s\Mep3.0\obj\Debug\Mep3._0.subOrdenAGREGAR.resources
+C:\Users\julia\Desktop\Project MEP\M.E.P.s\Mep3.0\obj\Debug\Mep3._0.frmProduccion.resources
+C:\Users\julia\Desktop\Project MEP\M.E.P.s\Mep3.0\obj\Debug\Mep3._0.form_addORmod_MP.resources
+C:\Users\julia\Desktop\Project MEP\M.E.P.s\Mep3.0\obj\Debug\Mep3._0.frmModificarRecetas.resources
+C:\Users\julia\Desktop\Project MEP\M.E.P.s\Mep3.0\obj\Debug\Mep3._0.AgregarMpReceta.resources
+C:\Users\julia\Desktop\Project MEP\M.E.P.s\Mep3.0\obj\Debug\Mep3._0.AgregarStockMP.resources
+C:\Users\julia\Desktop\Project MEP\M.E.P.s\Mep3.0\obj\Debug\Mep3._0.frmVerRegistros.resources
+C:\Users\julia\Desktop\Project MEP\M.E.P.s\Mep3.0\obj\Debug\LibreriaPersonal.Porcentajes.resources
+C:\Users\julia\Desktop\Project MEP\M.E.P.s\Mep3.0\obj\Debug\Mep3._0.Properties.Resources.resources
+C:\Users\julia\Desktop\Project MEP\M.E.P.s\Mep3.0\obj\Debug\Mep3.0.csproj.GenerateResource.cache
+C:\Users\julia\Desktop\Project MEP\M.E.P.s\Mep3.0\obj\Debug\Mep3.0.csproj.CoreCompileInputs.cache
+C:\Users\julia\Desktop\Project MEP\M.E.P.s\Mep3.0\obj\Debug\Mep3.0.csproj.CopyComplete
+C:\Users\julia\Desktop\Project MEP\M.E.P.s\Mep3.0\obj\Debug\Mep3.0.exe
+C:\Users\julia\Desktop\Project MEP\M.E.P.s\Mep3.0\obj\Debug\Mep3.0.pdb
+C:\Users\julia\Desktop\Mep Software\M.E.P.s\Mep3.0\bin\Debug\x86\sqlite3.dll
+C:\Users\julia\Desktop\Mep Software\M.E.P.s\Mep3.0\bin\Debug\x64\sqlite3.dll
+C:\Users\julia\Desktop\Mep Software\M.E.P.s\Mep3.0\bin\Debug\Mep3.0.exe.config
+C:\Users\julia\Desktop\Mep Software\M.E.P.s\Mep3.0\bin\Debug\Mep3.0.exe
+C:\Users\julia\Desktop\Mep Software\M.E.P.s\Mep3.0\bin\Debug\Mep3.0.pdb
+C:\Users\julia\Desktop\Mep Software\M.E.P.s\Mep3.0\bin\Debug\IronPdf.Assets.Rendering.Windows.dll
+C:\Users\julia\Desktop\Mep Software\M.E.P.s\Mep3.0\bin\Debug\IronPdf.dll
+C:\Users\julia\Desktop\Mep Software\M.E.P.s\Mep3.0\bin\Debug\System.Data.SQLite.dll
+C:\Users\julia\Desktop\Mep Software\M.E.P.s\Mep3.0\bin\Debug\IronPdf.xml
+C:\Users\julia\Desktop\Mep Software\M.E.P.s\Mep3.0\bin\Debug\System.Data.SQLite.xml
+C:\Users\julia\Desktop\Mep Software\M.E.P.s\Mep3.0\obj\Debug\Mep3.0.csproj.AssemblyReference.cache
+C:\Users\julia\Desktop\Mep Software\M.E.P.s\Mep3.0\obj\Debug\Consultas.ConsultaConDelegados.resources
+C:\Users\julia\Desktop\Mep Software\M.E.P.s\Mep3.0\obj\Debug\Mep3._0.frmVerMasRegistros.resources
+C:\Users\julia\Desktop\Mep Software\M.E.P.s\Mep3.0\obj\Debug\Mep3._0.frmCambiarNroProduccion.resources
+C:\Users\julia\Desktop\Mep Software\M.E.P.s\Mep3.0\obj\Debug\Mep3._0.frmConsulta.resources
+C:\Users\julia\Desktop\Mep Software\M.E.P.s\Mep3.0\obj\Debug\Mep3._0.frmModificarProductos.resources
+C:\Users\julia\Desktop\Mep Software\M.E.P.s\Mep3.0\obj\Debug\Mep3._0.frmAgregarProducto.resources
+C:\Users\julia\Desktop\Mep Software\M.E.P.s\Mep3.0\obj\Debug\Mep3._0.frmMENU.resources
+C:\Users\julia\Desktop\Mep Software\M.E.P.s\Mep3.0\obj\Debug\Mep3._0.frmOrden.resources
+C:\Users\julia\Desktop\Mep Software\M.E.P.s\Mep3.0\obj\Debug\Mep3._0.subOrdenAGREGAR.resources
+C:\Users\julia\Desktop\Mep Software\M.E.P.s\Mep3.0\obj\Debug\Mep3._0.frmProduccion.resources
+C:\Users\julia\Desktop\Mep Software\M.E.P.s\Mep3.0\obj\Debug\Mep3._0.form_addORmod_MP.resources
+C:\Users\julia\Desktop\Mep Software\M.E.P.s\Mep3.0\obj\Debug\Mep3._0.frmModificarRecetas.resources
+C:\Users\julia\Desktop\Mep Software\M.E.P.s\Mep3.0\obj\Debug\Mep3._0.AgregarMpReceta.resources
+C:\Users\julia\Desktop\Mep Software\M.E.P.s\Mep3.0\obj\Debug\Mep3._0.AgregarStockMP.resources
+C:\Users\julia\Desktop\Mep Software\M.E.P.s\Mep3.0\obj\Debug\Mep3._0.frmVerRegistros.resources
+C:\Users\julia\Desktop\Mep Software\M.E.P.s\Mep3.0\obj\Debug\Mep3._0.Properties.Resources.resources
+C:\Users\julia\Desktop\Mep Software\M.E.P.s\Mep3.0\obj\Debug\Mep3.0.csproj.GenerateResource.cache
+C:\Users\julia\Desktop\Mep Software\M.E.P.s\Mep3.0\obj\Debug\Mep3.0.csproj.CoreCompileInputs.cache
+C:\Users\julia\Desktop\Mep Software\M.E.P.s\Mep3.0\obj\Debug\Mep3.0.csproj.CopyComplete
+C:\Users\julia\Desktop\Mep Software\M.E.P.s\Mep3.0\obj\Debug\Mep3.0.exe
+C:\Users\julia\Desktop\Mep Software\M.E.P.s\Mep3.0\obj\Debug\Mep3.0.pdb
+C:\Users\julia\Desktop\Mep Software\M.E.P.s\Mep3.0\bin\Debug\EPPlus.dll
+C:\Users\julia\Desktop\Mep Software\M.E.P.s\Mep3.0\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\julia\Desktop\Mep Software\M.E.P.s\Mep3.0\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\julia\Desktop\Mep Software\M.E.P.s\Mep3.0\bin\Debug\EPPlus.xml
+C:\Users\julia\Desktop\Mep Software\M.E.P.s\Mep3.0\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\julia\Desktop\Mep Software\M.E.P.s\Mep3.0\obj\Debug\Mep3.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\julia\Desktop\Mep Software\M.E.P.s\Mep3.0\obj\Debug\Mep3._0.Excel_frmVerOrdenes.resources
+C:\Users\julia\Desktop\Mep Software\M.E.P.s\Mep3.0\obj\Debug\Consultas.frmConsultaBool.resources

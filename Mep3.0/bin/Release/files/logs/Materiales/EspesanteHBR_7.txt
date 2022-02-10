@@ -1,0 +1,192 @@
+
+------    Martes 29 de Septiembre de 2020 ------
+Produccion INGRESADA [2677] | [Latex Pro 01 ECO BLANCO]
+STOCK - Anterior: 156 Modificado: 151.8.
+
+------    Martes 29 de Septiembre de 2020 ------
+Produccion INGRESADA [2678] | [Latex Pro 01 ECO BLANCO]
+STOCK - Anterior: 152 Modificado: 147.8.
+
+------    Martes 29 de Septiembre de 2020 ------
+Produccion INGRESADA [2679] | [Latex Pro 01 ECO BLANCO]
+STOCK - Anterior: 148 Modificado: 143.8.
+
+------    Jueves 1 de Octubre de 2020 ------
+Produccion INGRESADA [2680] | [Latex Pro 01 ECO BLANCO]
+STOCK - Anterior: 144 Modificado: 139.8.
+
+------    Jueves 1 de Octubre de 2020 ------
+Produccion INGRESADA [2681] | [Latex Pro 01 BLANCO]
+STOCK - Anterior: 140 Modificado: 135.5.
+
+------    Jueves 22 de Octubre de 2020 ------
+Produccion INGRESADA [2695] | [Latex Pro 01 BLANCO]
+STOCK - Anterior: 136 Modificado: 131.5.
+
+------    Jueves 5 de Noviembre de 2020 ------
+MODIFICACION MANUAL
+STOCK - Anterior: 131.5 Modificado: 130.
+
+------    Jueves 26 de Noviembre de 2020 ------
+Produccion INGRESADA [2724] | [Latex Pro 01 ECO BLANCO]
+STOCK - Anterior: 130 Modificado: 125.8.
+
+------    Jueves 26 de Noviembre de 2020 ------
+Produccion INGRESADA [2725] | [Latex Pro 01 ECO BLANCO]
+STOCK - Anterior: 125.8 Modificado: 121.6.
+
+------    Jueves 26 de Noviembre de 2020 ------
+Produccion INGRESADA [2726] | [Latex Pro 01 ECO BLANCO]
+STOCK - Anterior: 121.6 Modificado: 117.4.
+
+------    Jueves 26 de Noviembre de 2020 ------
+Produccion INGRESADA [2727] | [Latex Pro 01 ECO BLANCO]
+STOCK - Anterior: 117.4 Modificado: 113.2.
+
+------    Viernes 27 de Noviembre de 2020 ------
+Produccion INGRESADA [2728] | [Latex Pro 01 ECO BLANCO]
+STOCK - Anterior: 113.2 Modificado: 109.
+
+------    Viernes 27 de Noviembre de 2020 ------
+Produccion INGRESADA [2729] | [Latex Pro 01 ECO BLANCO]
+STOCK - Anterior: 109 Modificado: 104.8.
+
+------    Viernes 4 de Diciembre de 2020 ------
+Produccion INGRESADA [2736] | [Latex Pro 01 MICRO BLANCO]
+STOCK - Anterior: 104.8 Modificado: 100.8.
+
+------    Viernes 4 de Diciembre de 2020 ------
+Produccion INGRESADA [2737] | [Latex Pro 01 BLANCO]
+STOCK - Anterior: 100.8 Modificado: 96.30002.
+
+------    Viernes 11 de Diciembre de 2020 ------
+MODIFICACION MANUAL
+STOCK - Anterior: 96.30002 Modificado: 92.
+
+------    Martes 15 de Diciembre de 2020 ------
+Produccion INGRESADA [2747] | [Latex Pro 01 ECO BLANCO]
+STOCK - Anterior: 92 Modificado: 87.8.
+
+------    Jueves 17 de Diciembre de 2020 ------
+Produccion INGRESADA [2748] | [Latex Pro 01 ECO BLANCO]
+STOCK - Anterior: 87.8 Modificado: 83.60001.
+
+------    Jueves 17 de Diciembre de 2020 ------
+Produccion INGRESADA [2749] | [Latex Pro 01 ECO BLANCO]
+STOCK - Anterior: 83.60001 Modificado: 79.40001.
+
+------    Jueves 17 de Diciembre de 2020 ------
+Produccion INGRESADA [2750] | [Latex Pro 01 ECO BLANCO]
+STOCK - Anterior: 79.40001 Modificado: 75.20001.
+
+------    Martes 22 de Diciembre de 2020 ------
+Produccion INGRESADA [2760] | [Latex Pro 01 BLANCO]
+STOCK - Anterior: 75.20001 Modificado: 70.70001.
+
+------    Martes 22 de Diciembre de 2020 ------
+Produccion INGRESADA [2761] | [Frentes y Muros F365 BLANCO]
+STOCK - Anterior: 70.70001 Modificado: 64.70001.
+
+------    Miércoles 23 de Diciembre de 2020 ------
+REPOSICION DE STOCK
+STOCK - Anterior: 64.70001 Modificado: 164.7.
+
+------    Lunes 11 de Enero de 2021 ------
+Produccion INGRESADA [2766] | [Latex Pro 01 ECO BLANCO]
+STOCK - Anterior: 160.5 Modificado: 156.3.
+
+------    Lunes 11 de Enero de 2021 ------
+Produccion INGRESADA [2767] | [Latex Pro 01 ECO BLANCO]
+STOCK - Anterior: 156.3 Modificado: 152.1.
+
+------    Lunes 11 de Enero de 2021 ------
+Produccion INGRESADA [2768] | [Latex Pro 01 MICRO BLANCO]
+STOCK - Anterior: 152.1 Modificado: 148.1.
+
+------    Miércoles 13 de Enero de 2021 ------
+Produccion INGRESADA [2769] | [Latex Pro 01 MICRO BLANCO]
+STOCK - Anterior: 148.1 Modificado: 144.1.
+
+------    Viernes 15 de Enero de 2021 ------
+Produccion INGRESADA [2775] | [Latex Pro 01 ECO BLANCO]
+STOCK - Anterior: 144.1 Modificado: 139.9.
+
+------    Viernes 15 de Enero de 2021 ------
+Produccion INGRESADA [2776] | [Latex Pro 01 ECO BLANCO]
+STOCK - Anterior: 139.9 Modificado: 135.7.
+
+------    Viernes 15 de Enero de 2021 ------
+Produccion INGRESADA [2777] | [Latex Pro 01 ECO BLANCO]
+STOCK - Anterior: 135.7 Modificado: 131.5.
+
+------    Viernes 15 de Enero de 2021 ------
+Produccion INGRESADA [2778] | [Latex Pro 01 ECO BLANCO]
+STOCK - Anterior: 131.5 Modificado: 127.3.
+
+------    Viernes 15 de Enero de 2021 ------
+Produccion INGRESADA [2779] | [Latex Pro 01 ECO BLANCO]
+STOCK - Anterior: 127.3 Modificado: 123.1.
+
+------    Jueves 21 de Enero de 2021 ------
+Produccion INGRESADA [2789] | [Latex Pro 01 BLANCO]
+STOCK - Anterior: 123.1 Modificado: 118.6.
+
+------    Jueves 4 de Febrero de 2021 ------
+REPOSICION DE STOCK
+STOCK - Anterior: 118.6 Modificado: 218.6.
+
+------    Jueves 4 de Febrero de 2021 ------
+Produccion INGRESADA [2804] | [Frentes y Muros F365 BLANCO]
+STOCK - Anterior: 218.6 Modificado: 212.6.
+
+------    Jueves 11 de Febrero de 2021 ------
+Produccion INGRESADA [2811] | [Latex Pro 01 BLANCO]
+STOCK - Anterior: 212.6 Modificado: 208.1.
+
+------    Jueves 4 de Marzo de 2021 ------
+Produccion INGRESADA [2829] | [Latex Pro 01 BLANCO]
+STOCK - Anterior: 208.1 Modificado: 203.6.
+
+------    Viernes 9 de Abril de 2021 ------
+Produccion INGRESADA [2847] | [Frentes y Muros F365 BLANCO]
+STOCK - Anterior: 203.6 Modificado: 197.6.
+
+------    Jueves 19 de Agosto de 2021 ------
+Produccion INGRESADA [2938] | [Frentes y Muros F365 BLANCO]
+STOCK - Anterior: 197.6 Modificado: 191.6.
+
+------    Jueves 26 de Agosto de 2021 ------
+Produccion INGRESADA [2939] | [Latex Pro 01 BLANCO]
+STOCK - Anterior: 191.6 Modificado: 187.1.
+
+------    Lunes 27 de Septiembre de 2021 ------
+Produccion INGRESADA [2964] | [Latex Pro 01 BLANCO]
+STOCK - Anterior: 187.1 Modificado: 182.6.
+
+------    Jueves 21 de Octubre de 2021 ------
+Produccion INGRESADA [2975] | [Frentes y Muros F365 BLANCO]
+STOCK - Anterior: 182.6 Modificado: 176.6.
+
+------    Miércoles 27 de Octubre de 2021 ------
+Produccion INGRESADA [2982] | [Latex Pro 01 BLANCO]
+STOCK - Anterior: 176.6 Modificado: 172.1.
+
+------    Viernes 29 de Octubre de 2021 ------
+Produccion INGRESADA [2983] | [Latex Pro 01 BLANCO]
+STOCK - Anterior: 172.1 Modificado: 167.6.
+
+------    Viernes 29 de Octubre de 2021 ------
+Produccion INGRESADA [2985] | [Frentes y Muros F365 BLANCO]
+STOCK - Anterior: 167.6 Modificado: 161.6.
+
+------    Lunes 13 de Diciembre de 2021 ------
+Produccion INGRESADA [3011] | [Frentes y Muros F365 BLANCO]
+STOCK - Anterior: 161.6 Modificado: 155.6.
+
+------    Miércoles 22 de Diciembre de 2021 ------
+Produccion INGRESADA [3021] | [Latex Pro 01 BLANCO]
+STOCK - Anterior: 155.6 Modificado: 151.1.
+
+------    Viernes 4 de Febrero de 2022 ------
+Produccion INGRESADA [3039] | [Frentes y Muros F365 BLANCO]
+STOCK - Anterior: 151.1 Modificado: 145.1.

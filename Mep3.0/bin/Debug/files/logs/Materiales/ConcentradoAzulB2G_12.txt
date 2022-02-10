@@ -1,0 +1,32 @@
+
+------    Miércoles 7 de Octubre de 2020 ------
+MODIFICACION MANUAL
+STOCK - Anterior: 56 Modificado: 56.
+
+------    Jueves 5 de Noviembre de 2020 ------
+MODIFICACION MANUAL
+STOCK - Anterior: 48.2 Modificado: 48.
+
+------    Miércoles 3 de Marzo de 2021 ------
+MODIFICACION MANUAL
+STOCK - Anterior: 13.8 Modificado: 13.8.
+
+------    Viernes 9 de Abril de 2021 ------
+REPOSICION DE STOCK
+STOCK - Anterior: 10.8 Modificado: 35.8.
+
+------    Viernes 9 de Abril de 2021 ------
+MODIFICACION MANUAL
+STOCK - Anterior: 35.8 Modificado: 30.8.
+
+------    Jueves 3 de Junio de 2021 ------
+REPOSICION DE STOCK
+STOCK - Anterior: 6.800001 Modificado: 46.8.
+
+------    Miércoles 28 de Julio de 2021 ------
+REPOSICION DE STOCK
+STOCK - Anterior: 36.6 Modificado: 56.6.
+
+------    Viernes 4 de Febrero de 2022 ------
+REPOSICION DE STOCK
+STOCK - Anterior: 21.19999 Modificado: 41.19999.
