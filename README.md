@@ -1,8 +1,4 @@
-# Custom stock manager application for a waterproof paint factory
-
-## Images
-
-	C:
+# MEP - Custom stock manager application for a waterproof paint factory
 
 ## About this project
 This WinForms application was thought to operate with 3 main functions:
@@ -18,4 +14,23 @@ Horrible code btw...i was learning C# and object oriented programming while i ma
 But I think I did a very good job with the graphical interface (Windows Forms).
 
 ## More details
+
 The program uses SQLite for the database and some HTML and CSS to create some reports.
+
+## Images
+
+Graphic interface mainly consist in a side by side panels view.
+
+ ![](Mep3.0/Resources/showcase/ProductionPanel.png)
+ >  Left side: Major product stock panel. Right side: Production input panel.
+ 
+ 
+ ![](Mep3.0/Resources/showcase/RawProductsAndOrders.png)
+ >  Left side: Raw materials stock panel. Right side: Order input history thing.
+ 
+ 
+ ![](Mep3.0/Resources/showcase/OrderInputPanel.png)
+ > Left side: Major product stock panel. Right side: Order input panel.
+ 
+ 
+ 
